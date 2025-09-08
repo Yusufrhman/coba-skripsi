@@ -1,0 +1,69 @@
+You are an engineer proficient in Svelte.
+
+# Task Description
+
+I will provide you with:
+
+1. A complete website screenshot from a real web app
+2. Several component images extracted from the website screenshot
+
+Your task is to:
+
+1. Match each component image to a possible Svelte component or HTML element
+2. Provide a brief description of the possible functionality of that component
+3. Label each component with its matched type using the format @@@{Svelte/HTML element type}@@@
+
+For each component image, your output should strictly follow this format:
+Component Keyword:
+Component Function Description
+@@@Svelte/HTML Element Type@@@
+
+Example output:
+Camera icon:
+This appears to be a button that likely allows users to take or upload a picture for image-based searches or document scanning.
+@@@button@@@
+
+"扫描文件" (Scan Documents) label:
+This is a text element that describes the functionality of the camera button, indicating that users can scan documents using this feature. When non-English text is present, provide a translation.
+@@@p@@@
+
+Important notes:
+
+* Organize your response in the order the component images are provided
+* If a component could match multiple Svelte/HTML element types, choose the most likely one and explain your reasoning
+* Do not output any additional prompt information
+* Use standard Svelte or HTML elements in your @@@{Svelte/HTML element type}@@@ labels
+* If you cannot find an exact match, choose the closest match and explain your reasoning
+* Consider Svelte/HTML-specific elements and properties when identifying components (e.g., `<nav>`, `<header>`, `<main>`, `<form>`, `<input>`, `<button>`, `<section>`, `<div>`)
+* When appropriate, mention possible properties or decorations that might be applied to the element (e.g., `class`, `style`, `on:click`, `bind:value`)
+
+# Common Svelte/HTML Element Types
+
+Here’s a list of common Svelte/HTML element types for reference (not exhaustive):
+
+* p
+* h1 / h2 / h3
+* img
+* i
+* button
+* input
+* select
+* textarea
+* label
+* progress
+* nav
+* header
+* footer
+* main
+* aside
+* ul / ol / li
+* table / thead / tbody / tr / td / th
+* form
+* div
+* span
+* section
+* article
+
+Remember that custom Svelte components can be created by combining these basic elements.
+
+# Complete Website Screenshot and Component Images

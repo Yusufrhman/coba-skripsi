@@ -1,0 +1,197 @@
+Apple App Store Button:
+This is a button that redirects the user to the application page in the Apple App Store, allowing them to download the app.
+@@@a@@@
+
+Google Play Store Button:
+This is a button that redirects the user to the application page in the Google Play Store, allowing them to download the app.
+@@@a@@@
+
+Sign In button:
+This button likely opens a sign-in modal or redirects to a sign-in page, enabling users to log in to their accounts.
+@@@button@@@
+
+Latte Art Workshop event:
+This component represents a card displaying information about a latte art workshop event. It includes an image, title, and date. Clicking on it likely navigates to a detailed view of the event.
+@@@a@@@
+
+"Load More" Button:
+This button likely triggers an action to load and display additional events on the page.
+@@@button@@@
+
+Website Description:
+This paragraph describes the company's mission or beliefs related to providing quality coffee and a comfortable space.
+@@@p@@@
+
+"Order" Button:
+This button navigates the user to an order page where they can place an order.
+@@@button@@@
+
+Exhibition Coffee Hardware Event:
+This component represents a card displaying information about a coffee hardware exhibition event. It includes an image, title, and date. Clicking on it likely navigates to a detailed view of the event.
+@@@a@@@
+
+Public Cupping event:
+This component represents a card displaying information about a public cupping event. It includes an image, title, and date. Clicking on it likely navigates to a detailed view of the event.
+@@@a@@@
+
+Competitions and Showcases event:
+This component represents a card displaying information about a competition and showcase event. It includes a title, and date. Clicking on it likely navigates to a detailed view of the event.
+@@@a@@@
+
+LATTE ART WORKSHOP:
+This is a text element that describes the title and date of a workshop. It's likely used as a heading or label for an event listing.
+@@@p@@@
+
+SENSORY AND CUPPING CLASS:
+This is a text element that describes the title and date of a class. It's likely used as a heading or label for an event listing.
+@@@p@@@
+
+BEZZERA LATTE ART COMPETITION:
+This is a text element that describes the title and date of a competition. It's likely used as a heading or label for an event listing.
+@@@p@@@
+
+Community:
+This appears to be a navigation link that, when clicked, will likely take the user to a page or section related to community activities or information.
+@@@a@@@
+
+Privacy Policy:
+This appears to be a link in the footer. Clicking it will likely navigate the user to a page describing the privacy policies of the website.
+@@@a@@@
+
+© 2023 IMAJI COFFEE, All rights reserved:
+This is a copyright notice, indicating the year of copyright, the name of the copyright holder (Imaji Coffee), and a statement reserving all rights.
+@@@p@@@
+
+Delivery Order:
+This appears to be a link that takes the user to a page where they can place a delivery order.
+@@@a@@@
+
+Terms and Conditions:
+This appears to be a link that takes the user to a page that details the terms and conditions of using the website.
+@@@a@@@
+
+Image of latte art being poured:
+This image visually represents the "Bezzera Latte Art Competition" event. When clicked, it could navigate to a page with more details about the event.
+@@@img@@@
+
+Home:
+This is a link to the home page of the website.
+@@@a@@@
+
+Story:
+This is a link to the story page of the website.
+@@@a@@@
+
+Sensory and Cupping Class:
+This is a title and date for an event. It likely links to a dedicated page for that specific event.
+@@@a@@@
+
+Exhibition Coffee Hardware:
+This is a title and date for an event. It likely links to a dedicated page for that specific event.
+@@@a@@@
+
+Art and Coffee Festival:
+This is a title and date for an event. It likely links to a dedicated page for that specific event.
+@@@a@@@
+
+Jl. Bangkringan No 19, RT.11/RW.2, Kota Surabaya, 60124
+Customer Service +6282-2876-6862
+We Are Open from Sun - Mon 10 AM - 22 PM:
+This is the address, customer service number, and opening hours of the coffee shop.
+@@@p@@@
+
+20 Feb 2023:
+This represents the date of an event.
+@@@p@@@
+
+Events Closed:
+This is a heading indicating a section of past events.
+@@@h2@@@
+
+Space:
+This is a link to the space page of the website.
+@@@a@@@
+
+"IMAJI Coffee.":
+This appears to be the logo/brand name of the coffee shop, likely a link to the homepage.
+@@@a@@@
+
+Coffee machine image:
+This is an image representing the coffee-making process, visually communicating the brand or services.
+@@@img@@@
+
+"News":
+This is likely a navigation link to a page containing news and updates about the coffee shop.
+@@@a@@@
+
+Latte art image:
+This is an image showcasing latte art, likely used to promote a latte art workshop or the coffee shop's artistic capabilities.
+@@@img@@@
+
+"Menu":
+This is likely a navigation link to a page displaying the coffee shop's menu.
+@@@a@@@
+
+"20 Mar 2023":
+This is a text element indicating the date of an event or news item.
+@@@p@@@
+
+Factory visit image:
+This is an image showcasing the coffee roasting process or factory, likely used to promote transparency and quality.
+@@@img@@@
+
+"20 Mar 2023":
+This is a text element indicating the date of an event or news item.
+@@@p@@@
+
+"Delivery Order":
+This appears to be a link/button that directs the user to a page where they can place a delivery order.
+@@@a@@@
+
+TikTok icon:
+This is an icon that links to the coffee shop's TikTok profile.
+@@@a@@@
+
+Event Card:
+This card displays information about a specific event. It includes an image, title, and date. It is likely a clickable element that leads to more details about the event.
+@@@a@@@
+
+Instagram Icon:
+This is an icon that links to the company's Instagram profile.
+@@@a@@@
+
+Event Card:
+This card displays information about a specific event. It includes an image, title, and date. It is likely a clickable element that leads to more details about the event.
+@@@a@@@
+
+Event Card:
+This card displays information about a specific event. It includes an image, title, and date. It is likely a clickable element that leads to more details about the event.
+@@@a@@@
+
+Event Title:
+This is the title of the event. It likely appears as a link to the details of the event.
+@@@h3@@@
+
+IMAJI Coffee.:
+This is the website's logo and likely acts as a link to the homepage.
+@@@a@@@
+
+PUBLIC CUPPING:
+This is the title of an event, likely a link to the event details page.
+@@@h3@@@
+
+20 Feb 2023:
+This appears to be the date of the event.
+@@@p@@@
+
+SENSORY AND CUPPING CLASS:
+This is the title of an event, likely a link to the event details page.
+@@@h3@@@
+
+FACTORY VISIT:
+This is the title of an event, likely a link to the event details page.
+@@@h3@@@
+
+LATTE ART WORKSHOP:
+This is the title of an event, likely a link to the event details page.
+@@@h3@@@

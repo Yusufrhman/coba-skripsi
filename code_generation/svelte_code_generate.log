@@ -1,0 +1,2968 @@
+2025-09-06 22:59:57,429 - ERROR 
+ Component type file not found: ../component_analysis/blog_detail/blog_detail_type.txt
+2025-09-06 22:59:57,431 - ERROR 
+ Error building prompt for blog_detail: [Errno 2] No such file or directory: '../component_analysis/blog_detail/blog_detail_type.txt'
+2025-09-06 22:59:57,431 - ERROR 
+ Error processing blog_detail: [Errno 2] No such file or directory: '../component_analysis/blog_detail/blog_detail_type.txt'
+2025-09-06 22:59:57,431 - ERROR 
+ Component type file not found: ../component_analysis/blog_list/blog_list_type.txt
+2025-09-06 22:59:57,431 - ERROR 
+ Error building prompt for blog_list: [Errno 2] No such file or directory: '../component_analysis/blog_list/blog_list_type.txt'
+2025-09-06 22:59:57,431 - ERROR 
+ Error processing blog_list: [Errno 2] No such file or directory: '../component_analysis/blog_list/blog_list_type.txt'
+2025-09-06 22:59:57,431 - ERROR 
+ Component type file not found: ../component_analysis/landing_home/landing_home_type.txt
+2025-09-06 22:59:57,431 - ERROR 
+ Error building prompt for landing_home: [Errno 2] No such file or directory: '../component_analysis/landing_home/landing_home_type.txt'
+2025-09-06 22:59:57,431 - ERROR 
+ Error processing landing_home: [Errno 2] No such file or directory: '../component_analysis/landing_home/landing_home_type.txt'
+2025-09-06 22:59:57,431 - ERROR 
+ Component type file not found: ../component_analysis/event_list/event_list_type.txt
+2025-09-06 22:59:57,431 - ERROR 
+ Error building prompt for event_list: [Errno 2] No such file or directory: '../component_analysis/event_list/event_list_type.txt'
+2025-09-06 22:59:57,431 - ERROR 
+ Error processing event_list: [Errno 2] No such file or directory: '../component_analysis/event_list/event_list_type.txt'
+2025-09-06 22:59:57,432 - ERROR 
+ Error building prompt for : [Errno 2] No such file or directory: './prompt/NavigationPrompt.txt'
+2025-09-06 22:59:57,432 - ERROR 
+ Error generating App component: [Errno 2] No such file or directory: './prompt/NavigationPrompt.txt'
+2025-09-06 23:00:55,968 - ERROR 
+ Error building prompt for blog_detail: 'expression'
+2025-09-06 23:00:55,969 - ERROR 
+ Error processing blog_detail: 'expression'
+2025-09-06 23:00:55,970 - ERROR 
+ Error building prompt for blog_list: 'expression'
+2025-09-06 23:00:55,970 - ERROR 
+ Error processing blog_list: 'expression'
+2025-09-06 23:00:55,970 - ERROR 
+ Error building prompt for landing_home: 'expression'
+2025-09-06 23:00:55,970 - ERROR 
+ Error processing landing_home: 'expression'
+2025-09-06 23:00:55,971 - ERROR 
+ Error building prompt for event_list: 'expression'
+2025-09-06 23:00:55,971 - ERROR 
+ Error processing event_list: 'expression'
+2025-09-06 23:00:55,971 - ERROR 
+ Error building prompt for : [Errno 2] No such file or directory: './prompt/NavigationPrompt.txt'
+2025-09-06 23:00:55,971 - ERROR 
+ Error generating App component: [Errno 2] No such file or directory: './prompt/NavigationPrompt.txt'
+2025-09-06 23:01:48,449 - ERROR 
+ Error building prompt for blog_detail: 'expression'
+2025-09-06 23:01:48,449 - ERROR 
+ Error processing blog_detail: 'expression'
+2025-09-06 23:01:48,450 - ERROR 
+ Error building prompt for blog_list: 'expression'
+2025-09-06 23:01:48,450 - ERROR 
+ Error processing blog_list: 'expression'
+2025-09-06 23:01:48,450 - ERROR 
+ Error building prompt for landing_home: 'expression'
+2025-09-06 23:01:48,450 - ERROR 
+ Error processing landing_home: 'expression'
+2025-09-06 23:01:48,451 - ERROR 
+ Error building prompt for event_list: 'expression'
+2025-09-06 23:01:48,451 - ERROR 
+ Error processing event_list: 'expression'
+2025-09-06 23:01:48,451 - ERROR 
+ Error building prompt for : "\n    '/'"
+2025-09-06 23:01:48,451 - ERROR 
+ Error generating App component: "\n    '/'"
+2025-09-06 23:01:57,241 - ERROR 
+ Error building prompt for blog_detail: 'expression'
+2025-09-06 23:01:57,241 - ERROR 
+ Error processing blog_detail: 'expression'
+2025-09-06 23:01:57,241 - ERROR 
+ Error building prompt for blog_list: 'expression'
+2025-09-06 23:01:57,241 - ERROR 
+ Error processing blog_list: 'expression'
+2025-09-06 23:01:57,241 - ERROR 
+ Error building prompt for landing_home: 'expression'
+2025-09-06 23:01:57,241 - ERROR 
+ Error processing landing_home: 'expression'
+2025-09-06 23:01:57,242 - ERROR 
+ Error building prompt for event_list: 'expression'
+2025-09-06 23:01:57,242 - ERROR 
+ Error processing event_list: 'expression'
+2025-09-06 23:01:57,242 - ERROR 
+ Error building prompt for : "\n    '/'"
+2025-09-06 23:01:57,242 - ERROR 
+ Error generating App component: "\n    '/'"
+2025-09-06 23:07:23,285 - ERROR 
+ Error building prompt for blog_detail: ' push, pop, replace '
+2025-09-06 23:07:23,285 - ERROR 
+ Error processing blog_detail: ' push, pop, replace '
+2025-09-06 23:07:23,286 - ERROR 
+ Error building prompt for blog_list: ' push, pop, replace '
+2025-09-06 23:07:23,286 - ERROR 
+ Error processing blog_list: ' push, pop, replace '
+2025-09-06 23:07:23,286 - ERROR 
+ Error building prompt for landing_home: ' push, pop, replace '
+2025-09-06 23:07:23,286 - ERROR 
+ Error processing landing_home: ' push, pop, replace '
+2025-09-06 23:07:23,287 - ERROR 
+ Error building prompt for event_list: ' push, pop, replace '
+2025-09-06 23:07:23,287 - ERROR 
+ Error processing event_list: ' push, pop, replace '
+2025-09-06 23:07:23,287 - ERROR 
+ Error building prompt for : "\n    '/'"
+2025-09-06 23:07:23,287 - ERROR 
+ Error generating App component: "\n    '/'"
+2025-09-06 23:08:24,503 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:08:34,213 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2025-09-06 23:08:34,219 - INFO 
+ AFC remote call 1 is done.
+2025-09-06 23:08:34,219 - INFO 
+ ----------blog_detail code:----------
+<script>
+  import { push } from 'svelte-spa-router';
+
+  let articleContent = `We are a small cafe, with a big dream of becoming a global cafe. We started our operations in Singapore, and we are now
+expanding to Singapore. We will be opening our first cafe in Beijing soon, and we also plan to open more cafes across the
+globe. Realizing The Mission of Global Expansion, Open its First Cafe in Singapore
+
+The cafe is located at Dempsey Hill, one of the most sought-after areas in Singapore. It's a family-friendly neighborhood
+with a wide range of restaurants and cafes. With a diverse population and many people from different cultures, Global
+Expansion Cafe aims to bring international food culture to Singaporeans from all walks of life.
+
+We are currently running our first pop-up shop at Dempsey Hill which will run until mid-November. Global Expansion Cafe
+will be open for lunch and dinner on weekdays as well as weekends. Global Expansion Cafe will introduce new tastes and
+experiences to Singaporeans by introducing international food culture.
+
+We are currently running our pop-up shop in Singapore, and hope to launch our own café soon. A real estate company is
+established in Asia that develops communities and provides financial services globally. We believe in love and happiness,
+a sense of belonging, and the importance of a shared experience. Here you can be yourself, share stories and make
+friends.
+
+We partner with companies who LOVE the world. The cafe is a place where people can go to enjoy the food and coffee,
+but also a place where they can meet new friends. The cafe is located in Pasir Ris. The cafe has a wide variety of menu
+items to choose from. In addition to the usual coffee and tea, there are also some specialty drinks such as smoothies,
+milkshakes and frozen yogurt.
+
+There are many types of food available at the cafe such as sandwiches, soups, salads and desserts. The menu also
+includes vegetarian options for those who have special dietary needs. People can order their food online via the website
+or by calling the number given on the website. They will be able to choose their preferred time for pickup so that they
+don't miss out on any orders!`;
+
+  const navigateToBlogList = () => {
+    push('/blog_list');
+  };
+
+  const navigateToHomePage = () => {
+    push('/landing_home');
+  };
+</script>
+
+<style>
+  .container {
+    font-family: sans-serif;
+    padding: 20px;
+  }
+
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+
+  .nav {
+    display: flex;
+    gap: 20px;
+  }
+
+  .nav a {
+    text-decoration: none;
+    color: black;
+  }
+
+  .article {
+    margin-bottom: 30px;
+  }
+
+  .article h1 {
+    font-size: 2em;
+    margin-bottom: 10px;
+  }
+
+  .article p {
+    line-height: 1.6;
+  }
+
+  .news {
+    margin-top: 40px;
+  }
+
+  .news h2 {
+    font-size: 1.5em;
+    margin-bottom: 15px;
+  }
+
+  .news a {
+    display: block;
+    margin-bottom: 10px;
+    text-decoration: none;
+    color: black;
+  }
+</style>
+
+<div class="container">
+  <div class="header">
+    <a href="/landing_home">IMAIJI Coffee.</a>
+    <nav class="nav">
+      <a href="/landing_home">Home</a>
+      <a href="#">Story</a>
+      <a href="#">Menu</a>
+      <a href="#">Space</a>
+      <a href="#">Community</a>
+      <a href="/blog_list">News</a>
+      <button on:click={() => {}}>Order</button>
+      <a href="#">Sign In</a>
+    </nav>
+  </div>
+
+  <div class="article">
+    <h1>Realizing The Mission of Global Expansion, Open its First Cafe in Singapore</h1>
+    <p>August 19, 2022</p>
+    <img src="assets/images/template.png" alt="Cafe Interior" />
+    <p>{articleContent}</p>
+  </div>
+
+  <div class="news">
+    <h2>Other News</h2>
+    <a href="#" on:click={navigateToBlogList}>
+      Collaboration to Develop Coffee and Beverage Industry Expertise in Indonesia
+    </a>
+  </div>
+
+  <button on:click={navigateToHomePage}>Go to Home Page</button>
+  <button on:click={navigateToBlogList}>Go to Blog List Page</button>
+  <footer>
+    <p>© 2023 IMAJI COFFEE, All rights reserved.</p>
+  </footer>
+</div>
+2025-09-06 23:08:34,220 - INFO 
+ Successfully saved: ./result/blog_detailComponent.svelte
+2025-09-06 23:08:34,221 - INFO 
+ [blog_detail] Implemented IDs: []
+2025-09-06 23:08:34,221 - INFO 
+ [blog_detail] Not Implemented IDs: ['blog_list', 'landing_home']
+2025-09-06 23:08:34,221 - INFO 
+ [blog_detail] Refining navigation - iteration 1
+2025-09-06 23:08:34,222 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:08:40,138 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2025-09-06 23:08:40,144 - INFO 
+ AFC remote call 1 is done.
+2025-09-06 23:08:40,146 - INFO 
+ Successfully saved: ./result/blog_detailComponent.svelte
+2025-09-06 23:08:40,146 - INFO 
+ [blog_detail] Implemented IDs: []
+2025-09-06 23:08:40,146 - INFO 
+ [blog_detail] Not Implemented IDs: ['blog_list', 'landing_home']
+2025-09-06 23:08:40,146 - INFO 
+ [blog_detail] Refining navigation - iteration 2
+2025-09-06 23:08:40,147 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:08:46,030 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2025-09-06 23:08:46,032 - INFO 
+ AFC remote call 1 is done.
+2025-09-06 23:08:46,033 - INFO 
+ Successfully saved: ./result/blog_detailComponent.svelte
+2025-09-06 23:08:46,033 - INFO 
+ [blog_detail] Implemented IDs: []
+2025-09-06 23:08:46,034 - INFO 
+ [blog_detail] Not Implemented IDs: ['blog_list', 'landing_home']
+2025-09-06 23:08:46,034 - INFO 
+ [blog_detail] Refining navigation - iteration 3
+2025-09-06 23:08:46,034 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:08:52,116 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2025-09-06 23:08:52,119 - INFO 
+ AFC remote call 1 is done.
+2025-09-06 23:08:52,120 - INFO 
+ Successfully saved: ./result/blog_detailComponent.svelte
+2025-09-06 23:08:52,120 - INFO 
+ [blog_detail] Implemented IDs: []
+2025-09-06 23:08:52,120 - INFO 
+ [blog_detail] Not Implemented IDs: ['blog_list', 'landing_home']
+2025-09-06 23:08:54,128 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:09:04,970 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2025-09-06 23:09:04,978 - INFO 
+ AFC remote call 1 is done.
+2025-09-06 23:09:04,979 - INFO 
+ ----------blog_list code:----------
+<script>
+  import { push } from 'svelte-spa-router';
+
+  let blogArticles = [
+    {
+      title: "Collaboration to Develop Coffee and Beverage Industry Expertise in Indonesia",
+      image: "assets/images/template.png",
+      date: "4 Min - August 19, 2022",
+      id: 1
+    },
+    {
+      title: "Visited Doesoen Sirap Coffee, The Producer of Robusta in Central Java",
+      image: "assets/images/template.png",
+      date: "4 Min - August 19, 2022",
+      id: 2
+    },
+    {
+      title: "Cold Brew Coffee, How to Drink Cold Coffee is More Enjoyable",
+      image: "assets/images/template.png",
+      date: "4 Min - August 19, 2022",
+      id: 3
+    },
+    {
+      title: "Meet Coffee Tonic, the Sensation of Drinking Coffee-Flavored Soda",
+      image: "assets/images/template.png",
+      date: "4 Min - August 19, 2022",
+      id: 4
+    },
+    {
+      title: "Workshop Coffee Sharing Session",
+      image: "assets/images/template.png",
+      date: "4 Min - August 19, 2022",
+      id: 5
+    },
+    {
+      title: "Workshop Coffee Brewing",
+      image: "assets/images/template.png",
+      date: "4 Min - August 19, 2022",
+      id: 6
+    }
+  ];
+
+  function navigateToBlogDetail(id) {
+    push(`/blog_detail?id=${id}`);
+  }
+
+  function navigateToHome() {
+    push('/');
+  }
+</script>
+
+<style>
+  .blog-list {
+    font-family: sans-serif;
+    padding: 20px;
+  }
+
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+
+  .logo {
+    font-size: 20px;
+    font-weight: bold;
+  }
+
+  .nav-menu {
+    display: flex;
+    gap: 20px;
+  }
+
+  .blog-article {
+    display: flex;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 10px;
+  }
+
+  .blog-article img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    margin-right: 10px;
+  }
+
+  .blog-article-info {
+    flex: 1;
+  }
+
+  .blog-article-info a {
+    text-decoration: none;
+    color: black;
+  }
+
+  .blog-article-info p {
+    font-size: 12px;
+    color: #888;
+  }
+
+  .load-more-button {
+    background-color: #f0f0f0;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+
+  .footer {
+    margin-top: 30px;
+    text-align: center;
+    color: #888;
+    font-size: 12px;
+  }
+</style>
+
+<div class="blog-list">
+  <div class="header">
+    <a href="/" class="logo" on:click|preventDefault={navigateToHome}>IMALI Coffee.</a>
+    <nav class="nav-menu">
+      <a href="/" on:click|preventDefault={navigateToHome}>Home</a>
+      <a href="/story">Story</a>
+      <a href="/menu">Menu</a>
+      <a href="/space">Space</a>
+      <a href="/community">Community</a>
+      <a href="/news">News</a>
+      <button on:click={() => push('/order')}>Order</button>
+      <button on:click={() => push('/sign-in')}>Sign In</button>
+    </nav>
+  </div>
+
+  <h1>Our News</h1>
+  <p>"Get the latest updates and deeper coffee experience from IMAJI Coffee."</p>
+  <img src="assets/images/template.png" alt="Coffee shop" />
+  
+  {#each blogArticles as article (article.id)}
+    <div class="blog-article">
+      <img src={article.image} alt={article.title} />
+      <div class="blog-article-info">
+        <a href="/blog_detail" on:click|preventDefault={() => navigateToBlogDetail(article.id)}><h3>{article.title}</h3></a>
+        <p>{article.date}</p>
+      </div>
+    </div>
+  {/each}
+
+  <button class="load-more-button">Load More</button>
+
+  <section>
+        <h2>Our Location</h2>
+        <p>Jl. Bangkringan No 19, RT.11/RW.2, Kota Surabaya, 60124
+            Customer Service +6282-2876-6862
+            We Are Open from Sun - Mon 10 AM - 22 PM</p>
+    </section>
+
+  <div class="footer">
+    <p>&copy; 2023 IMAJI COFFEE. All rights reserved</p>
+  </div>
+</div>
+2025-09-06 23:09:04,979 - INFO 
+ Successfully saved: ./result/blog_listComponent.svelte
+2025-09-06 23:09:04,980 - INFO 
+ [blog_list] Implemented IDs: []
+2025-09-06 23:09:04,980 - INFO 
+ [blog_list] Not Implemented IDs: ['blog_detail', 'landing_home']
+2025-09-06 23:09:04,980 - INFO 
+ [blog_list] Refining navigation - iteration 1
+2025-09-06 23:09:04,981 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:09:11,528 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2025-09-06 23:09:11,532 - INFO 
+ AFC remote call 1 is done.
+2025-09-06 23:09:11,533 - INFO 
+ Successfully saved: ./result/blog_listComponent.svelte
+2025-09-06 23:09:11,534 - INFO 
+ [blog_list] Implemented IDs: []
+2025-09-06 23:09:11,534 - INFO 
+ [blog_list] Not Implemented IDs: ['blog_detail', 'landing_home']
+2025-09-06 23:09:11,534 - INFO 
+ [blog_list] Refining navigation - iteration 2
+2025-09-06 23:09:11,535 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:09:11,809 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-09-06 23:09:11,812 - ERROR 
+ Error communicating with Gemini: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash-exp'}, 'quotaValue': '50'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '48s'}]}}
+2025-09-06 23:09:11,813 - ERROR 
+ Error refining navigation for blog_list: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash-exp'}, 'quotaValue': '50'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '48s'}]}}
+2025-09-06 23:09:13,825 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:09:15,831 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-09-06 23:09:15,834 - ERROR 
+ Error communicating with Gemini: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.0-flash-exp', 'location': 'global'}, 'quotaValue': '50'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '44s'}]}}
+2025-09-06 23:09:15,834 - ERROR 
+ Error processing landing_home: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.0-flash-exp', 'location': 'global'}, 'quotaValue': '50'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '44s'}]}}
+2025-09-06 23:09:15,839 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:09:17,373 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-09-06 23:09:17,377 - ERROR 
+ Error communicating with Gemini: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.0-flash-exp', 'location': 'global'}, 'quotaValue': '50'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '42s'}]}}
+2025-09-06 23:09:17,377 - ERROR 
+ Error processing event_list: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.0-flash-exp', 'location': 'global'}, 'quotaValue': '50'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '42s'}]}}
+2025-09-06 23:09:17,379 - ERROR 
+ Error building prompt for : "\n    '/'"
+2025-09-06 23:09:17,379 - ERROR 
+ Error generating App component: "\n    '/'"
+2025-09-06 23:10:21,675 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:10:23,435 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-09-06 23:10:23,437 - ERROR 
+ Error communicating with Gemini: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash-exp'}, 'quotaValue': '50'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '36s'}]}}
+2025-09-06 23:10:23,437 - ERROR 
+ Error processing blog_detail: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash-exp'}, 'quotaValue': '50'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '36s'}]}}
+2025-09-06 23:10:23,442 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:10:26,233 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-09-06 23:10:26,234 - ERROR 
+ Error communicating with Gemini: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.0-flash-exp', 'location': 'global'}, 'quotaValue': '50'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '33s'}]}}
+2025-09-06 23:10:26,234 - ERROR 
+ Error processing blog_list: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.0-flash-exp', 'location': 'global'}, 'quotaValue': '50'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '33s'}]}}
+2025-09-06 23:10:26,238 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:10:29,620 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-09-06 23:10:29,623 - ERROR 
+ Error communicating with Gemini: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.0-flash-exp', 'location': 'global'}, 'quotaValue': '50'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '30s'}]}}
+2025-09-06 23:10:29,623 - ERROR 
+ Error processing landing_home: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.0-flash-exp', 'location': 'global'}, 'quotaValue': '50'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '30s'}]}}
+2025-09-06 23:10:29,625 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:10:31,192 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-09-06 23:10:31,195 - ERROR 
+ Error communicating with Gemini: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash-exp'}, 'quotaValue': '50'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '28s'}]}}
+2025-09-06 23:10:31,195 - ERROR 
+ Error processing event_list: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash-exp'}, 'quotaValue': '50'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '28s'}]}}
+2025-09-06 23:10:31,197 - ERROR 
+ Error building prompt for : "\n    '/'"
+2025-09-06 23:10:31,197 - ERROR 
+ Error generating App component: "\n    '/'"
+2025-09-06 23:11:19,456 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:11:29,466 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2025-09-06 23:11:29,472 - INFO 
+ AFC remote call 1 is done.
+2025-09-06 23:11:29,473 - INFO 
+ ----------blog_detail code:----------
+<script>
+  import { push } from 'svelte-spa-router';
+
+  // Placeholder for article content. Replace with actual data.
+  let articleContent = `We are a small cafe, with a big dream of becoming a global cafe. We started our operations in Singapore, and we are now expanding to Singapore. We will be opening our first cafe in Beijing soon, and we also plan to open more cafes across the globe. Realizing The Mission of Global Expansion, Open its First Cafe in Singapore
+
+The cafe is located at Dempsey Hill, one of the most sought-after areas in Singapore. It's a family-friendly neighborhood with a wide range of restaurants and cafes. With a diverse population and many people from different cultures, Global Expansion Cafe aims to bring international food culture to Singaporeans from all walks of life.
+
+We are currently running our first pop-up shop at Dempsey Hill which will run until mid-November. Global Expansion Cafe will be open for lunch and dinner on weekdays as well as weekends. Global Expansion Cafe will introduce new tastes and experiences to Singaporeans by introducing international food culture.
+
+We are currently running our pop-up shop in Singapore, and hope to launch our own café soon. A real estate company is established in Asia that develops communities and provides financial services globally. We believe in love and happiness, a sense of belonging, and the importance of a shared experience. Here you can be yourself, share stories and make friends.
+
+We partner with companies who LOVE the world. The cafe is a place where people can go to enjoy the food and coffee, but also a place where they can meet new friends. The cafe is located in Pasir Ris. The cafe has a wide variety of menu items to choose from. In addition to the usual coffee and tea, there are also some specialty drinks such as smoothies, milkshakes and frozen yogurt.
+
+There are many types of food available at the cafe such as sandwiches, soups, salads and desserts. The menu also includes vegetarian options for those who have special dietary needs. People can order their food online via the website or by calling the number given on the website. They will be able to choose their preferred time for pickup so that they don't miss out on any orders!`;
+
+  const navigateToBlogList = () => {
+    push('/blog_list');
+  };
+
+  const navigateToHomePage = () => {
+    push('/landing_home');
+  };
+</script>
+
+<style>
+  .container {
+    font-family: sans-serif;
+    margin: 0 auto;
+    padding: 20px;
+    max-width: 800px;
+  }
+
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+
+  .nav {
+    display: flex;
+    gap: 20px;
+  }
+
+  .article-title {
+    font-size: 2em;
+    margin-bottom: 10px;
+  }
+
+  .article-date {
+    font-style: italic;
+    color: gray;
+    margin-bottom: 20px;
+  }
+
+  .article-image {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  .article-content {
+    line-height: 1.6;
+    margin-bottom: 30px;
+  }
+
+  .footer {
+    text-align: center;
+    margin-top: 50px;
+    padding-top: 20px;
+    border-top: 1px solid #eee;
+  }
+</style>
+
+<div class="container">
+  <div class="header">
+    <a href="/landing_home">IMAIJI Coffee.</a>
+    <nav class="nav">
+      <a href="/landing_home">Home</a>
+      <a href="#">Story</a>
+      <a href="#">Menu</a>
+      <a href="#">Space</a>
+      <a href="#">Community</a>
+      <a href="/blog_list">News</a>
+      <button on:click={() => {}}>Order</button>
+      <button on:click={() => {}}>Sign In</button>
+    </nav>
+  </div>
+
+  <h1 class="article-title">Realizing The Mission of Global Expansion, Open its First Cafe in Singapore</h1>
+  <p class="article-date">August 19, 2022</p>
+
+  <img src="assets/images/template.png" alt="Cafe Interior" class="article-image" />
+
+  <p class="article-content">
+    {articleContent}
+  </p>
+
+  <a href="/blog_list">News</a>
+  <a href="#">Menu</a>
+  <a href="#">Space</a>
+
+  <h2 class="article-title">Other News</h2>
+
+  <div class="footer">
+    <p>© 2023 IMAJI COFFEE, All rights reserved.</p>
+  </div>
+  <button on:click={navigateToBlogList}>Go to Blog List</button>
+  <button on:click={navigateToHomePage}>Go to Home Page</button>
+</div>
+2025-09-06 23:11:29,474 - INFO 
+ Successfully saved: ./result/blog_detail_page.svelte
+2025-09-06 23:11:29,474 - INFO 
+ [blog_detail] Implemented IDs: []
+2025-09-06 23:11:29,474 - INFO 
+ [blog_detail] Not Implemented IDs: ['blog_list', 'landing_home']
+2025-09-06 23:11:29,475 - INFO 
+ [blog_detail] Refining navigation - iteration 1
+2025-09-06 23:11:29,476 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:11:35,475 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2025-09-06 23:11:35,477 - INFO 
+ AFC remote call 1 is done.
+2025-09-06 23:11:35,479 - INFO 
+ Successfully saved: ./result/blog_detail_page.svelte
+2025-09-06 23:11:35,479 - INFO 
+ [blog_detail] Implemented IDs: []
+2025-09-06 23:11:35,479 - INFO 
+ [blog_detail] Not Implemented IDs: ['blog_list', 'landing_home']
+2025-09-06 23:11:35,479 - INFO 
+ [blog_detail] Refining navigation - iteration 2
+2025-09-06 23:11:35,480 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:11:41,424 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2025-09-06 23:11:41,427 - INFO 
+ AFC remote call 1 is done.
+2025-09-06 23:11:41,428 - INFO 
+ Successfully saved: ./result/blog_detail_page.svelte
+2025-09-06 23:11:41,428 - INFO 
+ [blog_detail] Implemented IDs: []
+2025-09-06 23:11:41,428 - INFO 
+ [blog_detail] Not Implemented IDs: ['blog_list', 'landing_home']
+2025-09-06 23:11:41,428 - INFO 
+ [blog_detail] Refining navigation - iteration 3
+2025-09-06 23:11:41,429 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:11:47,688 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2025-09-06 23:11:47,693 - INFO 
+ AFC remote call 1 is done.
+2025-09-06 23:11:47,694 - INFO 
+ Successfully saved: ./result/blog_detail_page.svelte
+2025-09-06 23:11:47,695 - INFO 
+ [blog_detail] Implemented IDs: []
+2025-09-06 23:11:47,695 - INFO 
+ [blog_detail] Not Implemented IDs: ['blog_list', 'landing_home']
+2025-09-06 23:11:49,706 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:12:05,532 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2025-09-06 23:12:05,547 - INFO 
+ AFC remote call 1 is done.
+2025-09-06 23:12:05,547 - INFO 
+ ----------blog_list code:----------
+<script>
+  import { push } from 'svelte-spa-router';
+
+  let blogArticles = [
+    {
+      title: "Collaboration to Develop Coffee and Beverage Industry Expertise in Indonesia",
+      image: "assets/images/template.png",
+      date: "4 Min - August 19, 2022",
+      id: 1
+    },
+    {
+      title: "Visited Doesoen Sirap Coffee, The Producer of Robusta in Central Java",
+      image: "assets/images/template.png",
+      date: "4 Min - August 19, 2022",
+      id: 2
+    },
+    {
+      title: "Cold Brew Coffee, How to Drink Cold Coffee is More Enjoyable",
+      image: "assets/images/template.png",
+      date: "4 Min - August 19, 2022",
+      id: 3
+    },
+    {
+      title: "Meet Coffee Tonic, the Sensation of Drinking Coffee-Flavored Soda",
+      image: "assets/images/template.png",
+      date: "4 Min - August 19, 2022",
+      id: 4
+    },
+    {
+      title: "Workshop Coffee Sharing Session",
+      image: "assets/images/template.png",
+      date: "4 Min - August 19, 2022",
+      id: 5
+    },
+    {
+      title: "Workshop Coffee Brewing",
+      image: "assets/images/template.png",
+      date: "4 Min - August 19, 2022",
+      id: 6
+    }
+  ];
+
+  function goToBlogDetail(id) {
+    push('/blog_detail', { id: id });
+  }
+
+  function goToHome() {
+    push('/landing_home');
+  }
+</script>
+
+<style>
+  .blog-list {
+    font-family: sans-serif;
+    padding: 20px;
+  }
+
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+
+  .nav {
+    display: flex;
+    gap: 10px;
+  }
+
+  .blog-article {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 10px;
+  }
+
+  .blog-article img {
+    width: 100%;
+    max-height: 200px;
+    object-fit: cover;
+    margin-bottom: 10px;
+  }
+
+  .blog-article a {
+    text-decoration: none;
+    color: black;
+  }
+
+  .blog-article h3 {
+    margin-bottom: 5px;
+  }
+
+  .blog-article p {
+    font-size: 0.8em;
+    color: #666;
+  }
+
+  .load-more-button {
+    background-color: #f0f0f0;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  .location-footer {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #f0f0f0;
+    text-align: center;
+  }
+  .location-footer p {
+    font-size: 0.8em;
+  }
+</style>
+
+<div class="blog-list">
+  <div class="header">
+    <a href="/" on:click|preventDefault={goToHome}>IMALI Coffee.</a>
+    <nav class="nav">
+      <a href="/" on:click|preventDefault={goToHome}>Home</a>
+      <a href="#">Story</a>
+      <a href="#">Menu</a>
+      <a href="#">Space</a>
+      <a href="#">Community</a>
+      <a href="#">News</a>
+      <button>Order</button>
+      <button>Sign In</button>
+    </nav>
+  </div>
+
+  <h1>Our News</h1>
+  <p>"Get the latest updates and deeper coffee experience from IMAJI Coffee."</p>
+  <img src="assets/images/template.png" alt="Coffee shop" />
+
+  {#each blogArticles as article}
+    <div class="blog-article">
+      <img src={article.image} alt={article.title} />
+      <a href="#" on:click|preventDefault={() => goToBlogDetail(article.id)}>
+        <h3>{article.title}</h3>
+      </a>
+      <p>{article.date}</p>
+    </div>
+  {/each}
+
+  <button class="load-more-button">Load More</button>
+
+  <div class="location-footer">
+    <h2>Our Location</h2>
+    <p>Jl. Bangkringan No 19, RT.11/RW.2, Kota Surabaya, 60124</p>
+    <p>Customer Service +6282-2876-6862</p>
+    <p>We Are Open from Sun - Mon 10 AM - 22 PM</p>
+    <p>© 2023 IMAJI COFFEE, All rights reserved</p>
+  </div>
+</div>
+2025-09-06 23:12:05,548 - INFO 
+ Successfully saved: ./result/blog_list_page.svelte
+2025-09-06 23:12:05,549 - INFO 
+ [blog_list] Implemented IDs: []
+2025-09-06 23:12:05,549 - INFO 
+ [blog_list] Not Implemented IDs: ['blog_detail', 'landing_home']
+2025-09-06 23:12:05,549 - INFO 
+ [blog_list] Refining navigation - iteration 1
+2025-09-06 23:12:05,551 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:12:12,233 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2025-09-06 23:12:12,239 - INFO 
+ AFC remote call 1 is done.
+2025-09-06 23:12:12,240 - INFO 
+ Successfully saved: ./result/blog_list_page.svelte
+2025-09-06 23:12:12,240 - INFO 
+ [blog_list] Implemented IDs: []
+2025-09-06 23:12:12,240 - INFO 
+ [blog_list] Not Implemented IDs: ['blog_detail', 'landing_home']
+2025-09-06 23:12:12,240 - INFO 
+ [blog_list] Refining navigation - iteration 2
+2025-09-06 23:12:12,241 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:12:18,725 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2025-09-06 23:12:18,732 - INFO 
+ AFC remote call 1 is done.
+2025-09-06 23:12:18,733 - INFO 
+ Successfully saved: ./result/blog_list_page.svelte
+2025-09-06 23:12:18,733 - INFO 
+ [blog_list] Implemented IDs: []
+2025-09-06 23:12:18,734 - INFO 
+ [blog_list] Not Implemented IDs: ['blog_detail', 'landing_home']
+2025-09-06 23:12:18,734 - INFO 
+ [blog_list] Refining navigation - iteration 3
+2025-09-06 23:12:18,735 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:12:25,261 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2025-09-06 23:12:25,263 - INFO 
+ AFC remote call 1 is done.
+2025-09-06 23:12:25,264 - INFO 
+ Successfully saved: ./result/blog_list_page.svelte
+2025-09-06 23:12:25,264 - INFO 
+ [blog_list] Implemented IDs: []
+2025-09-06 23:12:25,264 - INFO 
+ [blog_list] Not Implemented IDs: ['blog_detail', 'landing_home']
+2025-09-06 23:12:27,273 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:12:40,430 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2025-09-06 23:12:40,435 - INFO 
+ AFC remote call 1 is done.
+2025-09-06 23:12:40,436 - INFO 
+ ----------landing_home code:----------
+<script>
+  import { push } from 'svelte-spa-router';
+
+  function navigateToBlogDetail() {
+    push('/blog_detail');
+  }
+
+  function navigateToBlogList() {
+    push('/blog_list');
+  }
+
+  function navigateToEventList() {
+    push('/event_list');
+  }
+
+  function navigateToSignIn() {
+        push('/signin');
+  }
+  function navigateToOrder() {
+        push('/order');
+  }
+  let headerItems = ['Home', 'Story', 'Menu', 'Space', 'Community', 'News'];
+
+</script>
+
+<style>
+  .container {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  .header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 20px;
+    }
+
+    .header-links {
+        display: flex;
+        gap: 20px;
+    }
+
+    .header-links a {
+        text-decoration: none;
+        color: black;
+    }
+    .hero-section {
+        padding: 20px;
+        text-align: left;
+    }
+
+    .menu-section {
+        padding: 20px;
+        text-align: left;
+    }
+
+    .news-section {
+        padding: 20px;
+        text-align: left;
+    }
+    .button {
+        padding: 10px 20px;
+        background-color: #c4a484;
+        color: white;
+        border: none;
+        cursor: pointer;
+    }
+</style>
+
+<div class="container">
+    <div class="header">
+        <div>
+            IMAJI Coffee.
+        </div>
+        <div class="header-links">
+            {#each headerItems as item}
+                <a href="#">{item}</a>
+            {/each}
+            <button class="button" on:click={navigateToOrder}>Order</button>
+            <button class="button" on:click={navigateToSignIn}>Sign In</button>
+        </div>
+    </div>
+
+    <section class="hero-section">
+        <h1>Choose your Coffee & Space</h1>
+        <p>IMAJI Coffee has been serving 20,000+ cups of coffee and providing a comfortable place for our customers to work since 2010.</p>
+        <img src="assets/images/template.png" alt="Workspace" />
+        <img src="assets/images/template.png" alt="Barista" />
+    </section>
+
+    <section>
+        <h2>We Provide Your Space For Your Work or Mini event With Your Favorite coffee.</h2>
+        <p>Our story begins in 2010 with a simple idea from our founder that the most comfortable place to work is anywhere, because ideas are not limited by space and time, and the most comfortable place is in a café where their favorite coffee is available.</p>
+        <p>All the best local coffee bean varieties from throughout Indonesia are available with us. Directly from selected farmers, high-quality beans are processed and roasted to perfection by ourselves, then passed on to our skilled baristas who are passionate about preparing a cup of longed-for happiness from home.</p>
+        <img src="assets/images/template.png" alt="Plant-filled room" />
+        <img src="assets/images/template.png" alt="Seating area" />
+        <img src="assets/images/template.png" alt="Table with plants in front of windows" />
+        <img src="assets/images/template.png" alt="Coffee being prepared" />
+    </section>
+
+    <section class="menu-section">
+        <h2>Find Your Favorite Menu</h2>
+        <button class="button" on:click={()=>{}}>Explore Other Menu</button>
+        <img src="assets/images/template.png" alt="RISTRETTO BIANCO" />
+        <h3>RISTRETTO BIANCO</h3>
+        <img src="assets/images/template.png" alt="FRENCH TOAST WITH SUGAR" />
+        <h3>FRENCH TOAST WITH SUGAR</h3>
+        <img src="assets/images/template.png" alt="Coffee bag" />
+    </section>
+
+    <section>
+        <h2>8 Comfy Workspace</h2>
+        <p>We provide many attractive and unique workspaces so you will have no trouble finding a workspace you want.</p>
+        <img src="assets/images/template.png" alt="WHITE WALL Workspace" />
+        <h3>WHITE WALL Workspace</h3>
+        <img src="assets/images/template.png" alt="LONG WINDOW Workspace" />
+        <h3>LONG WINDOW Workspace</h3>
+        <img src="assets/images/template.png" alt="Image of Gengs Space" />
+        <h2>GENGS SPACE</h2>
+    </section>
+
+    <section>
+        <h2>We Grow Together With Our Customer</h2>
+        <p>We believe that we are big not because of us but because of them. They are the ones who motivate us to continue to innovate to provide a quality coffee taste and comfortable space that is getting better every day.</p>
+        <button class="button" on:click={navigateToEventList}>Explore Other Event</button>
+        <img src="assets/images/template.png" alt="Image of latte art" />
+        <h3>LATTE ART WORKSHOP</h3>
+        <img src="assets/images/template.png" alt="Image of Coffee Machine" />
+        <p>EXHIBITION COFFEE HARDWARE</p>
+    </section>
+
+    <section>
+        <p>Podcast player component</p>
+        <a href="#">Imaji Coffee Podcast</a>
+    </section>
+
+    <section class="news-section">
+        <h2>Latest News</h2>
+        <p>Get the latest updates and deeper coffee experience from IMAJI Coffee.</p>
+        <button class="button" on:click={navigateToBlogList}>See All News</button>
+        <img src="assets/images/template.png" alt="Barista" />
+        <p on:click={navigateToBlogDetail}>Collaboration to Develop Coffee and Beverage Industry Expertise in Indonesia</p>
+    </section>
+
+    <footer>
+        <h2>Our Location</h2>
+        <p>JL. Bangkringan No 10, RT.II/RW.2, Kota Surabaya, 60124</p>
+        <p>Customer Service +6282-2876-6862</p>
+        <p>We Are Open from Sun - Mon 10 AM - 22 PM</p>
+        <p>© 2023 IMAJI COFFEE, All rights reserved</p>
+        <p>Terms and Conditions | Privacy Policy</p>
+    </footer>
+</div>
+2025-09-06 23:12:40,436 - INFO 
+ Successfully saved: ./result/landing_home_page.svelte
+2025-09-06 23:12:40,437 - INFO 
+ [landing_home] Implemented IDs: []
+2025-09-06 23:12:40,437 - INFO 
+ [landing_home] Not Implemented IDs: ['blog_detail', 'blog_list', 'event_list']
+2025-09-06 23:12:40,437 - INFO 
+ [landing_home] Refining navigation - iteration 1
+2025-09-06 23:12:40,437 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:12:48,253 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2025-09-06 23:12:48,255 - INFO 
+ AFC remote call 1 is done.
+2025-09-06 23:12:48,255 - INFO 
+ Successfully saved: ./result/landing_home_page.svelte
+2025-09-06 23:12:48,255 - INFO 
+ [landing_home] Implemented IDs: []
+2025-09-06 23:12:48,255 - INFO 
+ [landing_home] Not Implemented IDs: ['blog_detail', 'blog_list', 'event_list']
+2025-09-06 23:12:48,255 - INFO 
+ [landing_home] Refining navigation - iteration 2
+2025-09-06 23:12:48,256 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:12:56,404 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2025-09-06 23:12:56,409 - INFO 
+ AFC remote call 1 is done.
+2025-09-06 23:12:56,411 - INFO 
+ Successfully saved: ./result/landing_home_page.svelte
+2025-09-06 23:12:56,412 - INFO 
+ [landing_home] Implemented IDs: []
+2025-09-06 23:12:56,412 - INFO 
+ [landing_home] Not Implemented IDs: ['blog_detail', 'blog_list', 'event_list']
+2025-09-06 23:12:56,412 - INFO 
+ [landing_home] Refining navigation - iteration 3
+2025-09-06 23:12:56,413 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:13:04,504 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2025-09-06 23:13:04,508 - INFO 
+ AFC remote call 1 is done.
+2025-09-06 23:13:04,509 - INFO 
+ Successfully saved: ./result/landing_home_page.svelte
+2025-09-06 23:13:04,509 - INFO 
+ [landing_home] Implemented IDs: []
+2025-09-06 23:13:04,509 - INFO 
+ [landing_home] Not Implemented IDs: ['blog_detail', 'blog_list', 'event_list']
+2025-09-06 23:13:06,518 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:13:18,732 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2025-09-06 23:13:18,734 - INFO 
+ AFC remote call 1 is done.
+2025-09-06 23:13:18,735 - INFO 
+ ----------event_list code:----------
+<script>
+    import { push } from 'svelte-spa-router';
+
+    function navigateToHome() {
+        push('/');
+    }
+</script>
+
+<style>
+    .container {
+        font-family: sans-serif;
+        padding: 20px;
+    }
+
+    .header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 20px;
+    }
+
+    .nav-links {
+        display: flex;
+        gap: 20px;
+    }
+
+    .nav-links a {
+        text-decoration: none;
+        color: black;
+    }
+
+    .title {
+        font-size: 2em;
+        margin-bottom: 20px;
+    }
+
+    .events-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        gap: 20px;
+    }
+
+    .event-card {
+        border: 1px solid #ddd;
+        padding: 10px;
+        border-radius: 5px;
+    }
+
+    .event-card img {
+        width: 100%;
+        height: auto;
+        margin-bottom: 10px;
+    }
+
+    .footer {
+        margin-top: 50px;
+        text-align: center;
+        color: #777;
+    }
+    .locationFooter {
+        background-color: #000;
+        color: #fff;
+        padding: 20px;
+        text-align: center;
+        margin-top: 50px;
+    }
+
+    .locationFooter p {
+        margin: 5px 0;
+    }
+
+    .locationFooter a {
+        color: #fff;
+        text-decoration: none;
+    }
+
+    .locationFooter .social-icons {
+        margin-top: 10px;
+    }
+
+    .locationFooter .social-icons a {
+        display: inline-block;
+        margin: 0 5px;
+        font-size: 20px;
+    }
+    .locationFooter .footer-links {
+        margin-top: 10px;
+    }
+
+    .locationFooter .footer-links a {
+        margin: 0 10px;
+        font-size: 14px;
+    }
+</style>
+
+<div class="container">
+    <div class="header">
+        <a href="/" class="logo" on:click|preventDefault={navigateToHome}>IMAJI Coffee.</a>
+        <div class="nav-links">
+            <a href="/" on:click|preventDefault={navigateToHome}>Home</a>
+            <a href="/story">Story</a>
+            <a href="/menu">Menu</a>
+            <a href="/space">Space</a>
+            <a href="/community">Community</a>
+            <a href="/news">News</a>
+            <button>Order</button>
+            <button>Sign In</button>
+        </div>
+    </div>
+
+    <h1 class="title">Our Upcoming Events</h1>
+    <p>We believe that we are big not because of us but because of them. they are the ones who motivate us to continue to innovate to provide a quality coffee taste and comfortable space that is getting better every day.</p>
+
+    <div class="events-grid">
+        <a href="/latte-art-workshop" class="event-card">
+            <img src="assets/images/template.png" alt="Latte Art Workshop" />
+            <h3>LATTE ART WORKSHOP</h3>
+            <p>20 Feb 2023</p>
+        </a>
+        <a href="/exhibition-coffee-hardware" class="event-card">
+            <img src="assets/images/template.png" alt="Exhibition Coffee Hardware" />
+            <h3>EXHIBITION COFFEE HARDWARE</h3>
+            <p>20 Mar 2023</p>
+        </a>
+        <a href="/factory-visit" class="event-card">
+            <img src="assets/images/template.png" alt="Factory Visit" />
+            <h3>FACTORY VISIT</h3>
+            <p>20 Apr 2023</p>
+        </a>
+    </div>
+
+    <h2>Events Closed</h2>
+
+    <div class="events-grid">
+         <a href="/bezzera-latte-art-competition" class="event-card">
+            <img src="assets/images/template.png" alt="Bezzera Latte Art Competition" />
+            <h3>BEZZERA LATTE ART COMPETITION</h3>
+            <p>20 Feb 2023</p>
+        </a>
+        <a href="/sensory-and-cupping-class" class="event-card">
+            <img src="assets/images/template.png" alt="Sensory and Cupping Class" />
+            <h3>SENSORY AND CUPPING CLASS</h3>
+            <p>20 Mar 2023</p>
+        </a>
+        <a href="/public-cupping" class="event-card">
+            <img src="assets/images/template.png" alt="Public Cupping" />
+            <h3>PUBLIC CUPPING</h3>
+            <p>20 Feb 2023</p>
+        </a>
+        <a href="/competitions-and-showcases" class="event-card">
+             <img src="assets/images/template.png" alt="Competitions and Showcases" />
+            <h3>COMPETITIONS AND SHOWCASES</h3>
+            <p>20 Mar 2023</p>
+        </a>
+         <a href="/art-and-coffee-festival" class="event-card">
+            <img src="assets/images/template.png" alt="Art and Coffee Festival" />
+            <h3>ART AND COFFEE FESTIVAL</h3>
+            <p>20 Mar 2023</p>
+        </a>
+    </div>
+    <button>Load More</button>
+    <div class="locationFooter">
+        <h2>Our Location</h2>
+        <p>Jl. Bangkringan No 19, RT.11/RW.2, Kota Surabaya, 60124</p>
+        <p>Customer Service +6282-2876-6862</p>
+        <p>We Are Open from Sun - Mon 10 AM - 22 PM</p>
+
+        <div class="social-icons">
+            <a href="#" target="_blank">Spotify</a>
+            <a href="#" target="_blank">Instagram</a>
+            <a href="#" target="_blank">TikTok</a>
+            <a href="#" target="_blank">Youtube</a>
+            <a href="#" target="_blank">Twitter</a>
+            <a href="#" target="_blank">Telegram</a>
+        </div>
+        <a href="#">Delivery Order</a>
+        <a href="#"><img src="assets/images/template.png" alt="Apple App Store Button" /></a>
+        <a href="#"><img src="assets/images/template.png" alt="Google Play Store Button" /></a>
+
+        <div class="footer-links">
+            <a href="#">Terms and Conditions</a>
+            <a href="#">Privacy Policy</a>
+        </div>
+
+        <p>© 2023 IMAJI COFFEE, All rights reserved</p>
+    </div>
+</div>
+2025-09-06 23:13:18,735 - INFO 
+ Successfully saved: ./result/event_list_page.svelte
+2025-09-06 23:13:18,735 - INFO 
+ [event_list] Implemented IDs: []
+2025-09-06 23:13:18,736 - INFO 
+ [event_list] Not Implemented IDs: ['landing_home']
+2025-09-06 23:13:18,736 - INFO 
+ [event_list] Refining navigation - iteration 1
+2025-09-06 23:13:18,736 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:13:27,447 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2025-09-06 23:13:27,454 - INFO 
+ AFC remote call 1 is done.
+2025-09-06 23:13:27,456 - INFO 
+ Successfully saved: ./result/event_list_page.svelte
+2025-09-06 23:13:27,457 - INFO 
+ [event_list] Implemented IDs: []
+2025-09-06 23:13:27,457 - INFO 
+ [event_list] Not Implemented IDs: ['landing_home']
+2025-09-06 23:13:27,457 - INFO 
+ [event_list] Refining navigation - iteration 2
+2025-09-06 23:13:27,458 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:13:35,976 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2025-09-06 23:13:35,983 - INFO 
+ AFC remote call 1 is done.
+2025-09-06 23:13:35,984 - INFO 
+ Successfully saved: ./result/event_list_page.svelte
+2025-09-06 23:13:35,985 - INFO 
+ [event_list] Implemented IDs: []
+2025-09-06 23:13:35,985 - INFO 
+ [event_list] Not Implemented IDs: ['landing_home']
+2025-09-06 23:13:35,985 - INFO 
+ [event_list] Refining navigation - iteration 3
+2025-09-06 23:13:35,986 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:13:44,871 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2025-09-06 23:13:44,879 - INFO 
+ AFC remote call 1 is done.
+2025-09-06 23:13:44,882 - INFO 
+ Successfully saved: ./result/event_list_page.svelte
+2025-09-06 23:13:44,882 - INFO 
+ [event_list] Implemented IDs: []
+2025-09-06 23:13:44,882 - INFO 
+ [event_list] Not Implemented IDs: ['landing_home']
+2025-09-06 23:13:46,889 - ERROR 
+ Error building prompt for : "\n    '/'"
+2025-09-06 23:13:46,890 - ERROR 
+ Error generating App component: "\n    '/'"
+2025-09-06 23:14:29,223 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:14:41,551 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2025-09-06 23:14:41,555 - INFO 
+ AFC remote call 1 is done.
+2025-09-06 23:14:41,555 - INFO 
+ ----------blog_detail code:----------
+<script>
+  import { push } from 'svelte-spa-router';
+
+  let header = ['Home', 'Story', 'Menu', 'Space', 'Community', 'News', 'Order', 'Sign In'];
+  let articleContent = `We are a small cafe, with a big dream of becoming a global cafe. We started our operations in Singapore, and we are now
+expanding to Singapore. We will be opening our first cafe in Beijing soon, and we also plan to open more cafes across the
+globe. Realizing The Mission of Global Expansion, Open its First Cafe in Singapore
+
+The cafe is located at Dempsey Hill, one of the most sought-after areas in Singapore. It's a family-friendly neighborhood
+with a wide range of restaurants and cafes. With a diverse population and many people from different cultures, Global
+Expansion Cafe aims to bring international food culture to Singaporeans from all walks of life.
+
+We are currently running our first pop-up shop at Dempsey Hill which will run until mid-November. Global Expansion Cafe
+will be open for lunch and dinner on weekdays as well as weekends. Global Expansion Cafe will introduce new tastes and
+experiences to Singaporeans by introducing international food culture.
+
+We are currently running our pop-up shop in Singapore, and hope to launch our own café soon. A real estate company is
+established in Asia that develops communities and provides financial services globally. We believe in love and happiness,
+a sense of belonging, and the importance of a shared experience. Here you can be yourself, share stories and make
+friends.
+
+We partner with companies who LOVE the world. The cafe is a place where people can go to enjoy the food and coffee,
+but also a place where they can meet new friends. The cafe is located in Pasir Ris. The cafe has a wide variety of menu
+items to choose from. In addition to the usual coffee and tea, there are also some specialty drinks such as smoothies,
+milkshakes and frozen yogurt.
+
+There are many types of food available at the cafe such as sandwiches, soups, salads and desserts. The menu also
+includes vegetarian options for those who have special dietary needs. People can order their food online via the website
+or by calling the number given on the website. They will be able to choose their preferred time for pickup so that they
+don't miss out on any orders!`;
+
+  function goToBlogList() {
+    push('/blog_list');
+  }
+
+  function goToLandingHome() {
+    push('/landing_home');
+  }
+</script>
+
+<style>
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+  }
+
+  .header {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+  }
+
+  .article {
+    width: 80%;
+    text-align: justify;
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+  }
+
+  .news {
+    margin-top: 20px;
+    width: 80%;
+  }
+
+  .news-item {
+    margin-bottom: 10px;
+  }
+
+  .footer {
+    margin-top: 20px;
+    text-align: center;
+    width: 100%;
+  }
+</style>
+
+<div class="container">
+  <a href="/" on:click|preventDefault={goToLandingHome}>
+    IMAIJI Coffee.
+  </a>
+  <nav class="header">
+    {#each header as item}
+      <a href="/{item.toLowerCase().replace(' ', '_')}" on:click|preventDefault={() => {
+          if (item === 'News') {
+              goToBlogList();
+          } else if (item === 'Home') {
+              goToLandingHome();
+          }
+      }}>
+        {item}
+      </a>
+    {/each}
+  </nav>
+
+  <h1>Realizing The Mission of Global Expansion, Open its First Cafe in Singapore</h1>
+  <p>August 19, 2022</p>
+
+  <img src="assets/images/template.png" alt="cafe interior" />
+
+  <p class="article">
+    {articleContent}
+  </p>
+
+  <div class="news">
+    <h2>Other News</h2>
+    <a href="/blog_detail" class="news-item" on:click|preventDefault={goToBlogList}>
+      Collaboration to Develop Coffee and Beverage Industry Expertise in Indonesia
+      <p>4 Min • August 19, 2022</p>
+    </a>
+    <a href="/blog_detail" class="news-item" on:click|preventDefault={goToBlogList}>
+      Collaboration to Develop Coffee and Beverage Industry Expertise in Indonesia
+      <p>4 Min • August 19, 2022</p>
+    </a>
+  </div>
+
+  <footer class="footer">
+    <p>Jl. Bangkringan No 19, RT.11/RW.2, Kota Surabaya, 60124</p>
+    <p>Customer Service +6282-2876-6862</p>
+    <p>We are Open from Sun - Mon 10 AM - 11 PM</p>
+    <p>© 2023 IMAJI COFFEE, All rights reserved.</p>
+  </footer>
+</div>
+2025-09-06 23:14:41,556 - INFO 
+ Successfully saved: ./result/blog_detail_page.svelte
+2025-09-06 23:14:41,557 - INFO 
+ [blog_detail] Implemented IDs: []
+2025-09-06 23:14:41,557 - INFO 
+ [blog_detail] Not Implemented IDs: ['blog_list', 'landing_home']
+2025-09-06 23:14:41,557 - INFO 
+ [blog_detail] Refining navigation - iteration 1
+2025-09-06 23:14:41,557 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:14:48,330 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2025-09-06 23:14:48,336 - INFO 
+ AFC remote call 1 is done.
+2025-09-06 23:14:48,337 - INFO 
+ Successfully saved: ./result/blog_detail_page.svelte
+2025-09-06 23:14:48,338 - INFO 
+ [blog_detail] Implemented IDs: []
+2025-09-06 23:14:48,338 - INFO 
+ [blog_detail] Not Implemented IDs: ['blog_list', 'landing_home']
+2025-09-06 23:14:48,338 - INFO 
+ [blog_detail] Refining navigation - iteration 2
+2025-09-06 23:14:48,339 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:14:54,883 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2025-09-06 23:14:54,889 - INFO 
+ AFC remote call 1 is done.
+2025-09-06 23:14:54,890 - INFO 
+ Successfully saved: ./result/blog_detail_page.svelte
+2025-09-06 23:14:54,890 - INFO 
+ [blog_detail] Implemented IDs: []
+2025-09-06 23:14:54,890 - INFO 
+ [blog_detail] Not Implemented IDs: ['blog_list', 'landing_home']
+2025-09-06 23:14:54,890 - INFO 
+ [blog_detail] Refining navigation - iteration 3
+2025-09-06 23:14:54,891 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:15:01,330 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2025-09-06 23:15:01,333 - INFO 
+ AFC remote call 1 is done.
+2025-09-06 23:15:01,335 - INFO 
+ Successfully saved: ./result/blog_detail_page.svelte
+2025-09-06 23:15:01,335 - INFO 
+ [blog_detail] Implemented IDs: []
+2025-09-06 23:15:01,335 - INFO 
+ [blog_detail] Not Implemented IDs: ['blog_list', 'landing_home']
+2025-09-06 23:15:03,344 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:15:13,618 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2025-09-06 23:15:13,624 - INFO 
+ AFC remote call 1 is done.
+2025-09-06 23:15:13,625 - INFO 
+ ----------blog_list code:----------
+<script>
+  import { push } from 'svelte-spa-router';
+
+  let blogArticles = [
+    {
+      title: "Collaboration to Develop Coffee and Beverage Industry Expertise in Indonesia",
+      image: "assets/images/template.png",
+      date: "4 Min - August 19, 2022",
+      id: 1
+    },
+    {
+      title: "Visited Doesoen Sirap Coffee, The Producer of Robusta in Central Java",
+      image: "assets/images/template.png",
+      date: "4 Min - August 19, 2022",
+      id: 2
+    },
+    {
+      title: "Cold Brew Coffee, How to Drink Cold Coffee is More Enjoyable",
+      image: "assets/images/template.png",
+      date: "4 Min - August 19, 2022",
+      id: 3
+    },
+    {
+      title: "Meet Coffee Tonic, the Sensation of Drinking Coffee-Flavored Soda",
+      image: "assets/images/template.png",
+      date: "4 Min - August 19, 2022",
+      id: 4
+    },
+    {
+      title: "Workshop Coffee Sharing Session",
+      image: "assets/images/template.png",
+      date: "4 Min - August 19, 2022",
+      id: 5
+    },
+    {
+      title: "Workshop Coffee Brewing",
+      image: "assets/images/template.png",
+      date: "4 Min - August 19, 2022",
+      id: 6
+    }
+  ];
+
+  function navigateToBlogDetail(id) {
+    push(`/blog_detail?id=${id}`);
+  }
+
+  function navigateToHome() {
+    push('/');
+  }
+</script>
+
+<style>
+  .blog-list-container {
+    font-family: sans-serif;
+    padding: 20px;
+  }
+
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+
+  .nav {
+    display: flex;
+  }
+
+  .nav a {
+    text-decoration: none;
+    color: black;
+    margin-left: 10px;
+  }
+
+  .news-section {
+    margin-bottom: 30px;
+  }
+
+  .article {
+    display: flex;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #eee;
+  }
+
+  .article img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    margin-right: 20px;
+  }
+
+  .article-content {
+    flex: 1;
+  }
+
+  .article-content a {
+    text-decoration: none;
+    color: black;
+  }
+
+  .load-more-button {
+    background-color: #f0f0f0;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-top: 20px;
+  }
+
+  .location {
+    background-color: #222;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+
+  .location p {
+    margin: 5px 0;
+  }
+</style>
+
+<div class="blog-list-container">
+  <div class="header">
+    <a href="/" class="logo">IMALI Coffee.</a>
+    <nav class="nav">
+      <a href="/">Home</a>
+      <a href="#">Story</a>
+      <a href="#">Menu</a>
+      <a href="#">Space</a>
+      <a href="#">Community</a>
+      <a href="/blog_list">News</a>
+      <a href="#">Order</a>
+      <a href="#">Sign In</a>
+    </nav>
+  </div>
+
+  <section class="news-section">
+    <h1>Our News</h1>
+    <p>Get the latest updates and deeper coffee experience from IMAJI Coffee.</p>
+    <img src="assets/images/template.png" alt="Coffee shop" />
+
+    {#each blogArticles as article (article.id)}
+      <div class="article">
+        <img src={article.image} alt={article.title} />
+        <div class="article-content">
+          <a href="#" on:click={() => navigateToBlogDetail(article.id)}>
+            <h3>{article.title}</h3>
+          </a>
+          <p>{article.date}</p>
+        </div>
+      </div>
+    {/each}
+
+    <button class="load-more-button">Load More</button>
+  </section>
+
+  <footer class="location">
+    <h2>Our Location</h2>
+    <p>Jl. Bangkringan No 19, RT.11/RW.2, Kota Surabaya, 60124</p>
+    <p>Customer Service +6282-2876-6862</p>
+    <p>We Are Open from Sun - Mon 10 AM - 22 PM</p>
+    <p>© 2023 IMAJI COFFEE, All rights reserved</p>
+  </footer>
+</div>
+2025-09-06 23:15:13,627 - INFO 
+ Successfully saved: ./result/blog_list_page.svelte
+2025-09-06 23:15:13,627 - INFO 
+ [blog_list] Implemented IDs: []
+2025-09-06 23:15:13,628 - INFO 
+ [blog_list] Not Implemented IDs: ['blog_detail', 'landing_home']
+2025-09-06 23:15:13,628 - INFO 
+ [blog_list] Refining navigation - iteration 1
+2025-09-06 23:15:13,629 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:15:20,307 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2025-09-06 23:15:20,314 - INFO 
+ AFC remote call 1 is done.
+2025-09-06 23:15:20,315 - INFO 
+ Successfully saved: ./result/blog_list_page.svelte
+2025-09-06 23:15:20,316 - INFO 
+ [blog_list] Implemented IDs: []
+2025-09-06 23:15:20,316 - INFO 
+ [blog_list] Not Implemented IDs: ['blog_detail', 'landing_home']
+2025-09-06 23:15:20,316 - INFO 
+ [blog_list] Refining navigation - iteration 2
+2025-09-06 23:15:20,317 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:15:26,866 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2025-09-06 23:15:26,872 - INFO 
+ AFC remote call 1 is done.
+2025-09-06 23:15:26,873 - INFO 
+ Successfully saved: ./result/blog_list_page.svelte
+2025-09-06 23:15:26,873 - INFO 
+ [blog_list] Implemented IDs: []
+2025-09-06 23:15:26,874 - INFO 
+ [blog_list] Not Implemented IDs: ['blog_detail', 'landing_home']
+2025-09-06 23:15:26,874 - INFO 
+ [blog_list] Refining navigation - iteration 3
+2025-09-06 23:15:26,875 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:15:33,184 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2025-09-06 23:15:33,188 - INFO 
+ AFC remote call 1 is done.
+2025-09-06 23:15:33,189 - INFO 
+ Successfully saved: ./result/blog_list_page.svelte
+2025-09-06 23:15:33,190 - INFO 
+ [blog_list] Implemented IDs: []
+2025-09-06 23:15:33,190 - INFO 
+ [blog_list] Not Implemented IDs: ['blog_detail', 'landing_home']
+2025-09-06 23:15:35,200 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:15:46,309 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2025-09-06 23:15:46,316 - INFO 
+ AFC remote call 1 is done.
+2025-09-06 23:15:46,317 - INFO 
+ ----------landing_home code:----------
+<script>
+  import { push } from 'svelte-spa-router';
+
+  function goToBlogDetail() {
+    push('/blog_detail');
+  }
+
+  function goToBlogList() {
+    push('/blog_list');
+  }
+
+  function goToEventList() {
+    push('/event_list');
+  }
+</script>
+
+<style>
+  .container {
+    font-family: sans-serif;
+    padding: 20px;
+  }
+
+  .menu {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    padding: 0;
+  }
+
+  .menu li a {
+    text-decoration: none;
+    color: black;
+  }
+</style>
+
+<div class="container">
+  <ul class="menu">
+    <li><a href="/">Home</a></li>
+    <li><a href="/">Story</a></li>
+    <li><a href="/">Menu</a></li>
+    <li><a href="/">Space</a></li>
+    <li><a href="/">Community</a></li>
+    <li><a href="/">News</a></li>
+    <li><button>Order</button></li>
+    <li><button>Sign In</button></li>
+  </ul>
+
+  <h1>Choose your Coffee & Space</h1>
+  <p>IMAJI Coffee has been serving 20,000+ cups of coffee and providing a comfortable place for our customers to work since 2010.</p>
+
+  <img src="assets/images/template.png" alt="Seating area" />
+  <img src="assets/images/template.png" alt="Barista" />
+
+  <h2>We Provide Your Space For Your Work or Mini event With Your Favorite coffee.</h2>
+  <p>Our story begins in 2010 with a simple idea from our founder that the most comfortable place to work is anywhere, because ideas are not limited by space and time, and the most comfortable place is in a café where their favorite coffee is available.</p>
+  <p>All the best local coffee bean varieties from throughout Indonesia are available with us. Directly from selected farmers, high-quality beans are processed and roasted to perfection by ourselves, then passed on to our skilled baristas who are passionate about preparing a cup of longed-for happiness from home.</p>
+
+  <img src="assets/images/template.png" alt="Table with plants in front of windows" />
+  <img src="assets/images/template.png" alt="Plant-filled room" />
+  <img src="assets/images/template.png" alt="Seating area" />
+  <img src="assets/images/template.png" alt="Coffee being prepared" />
+
+  <h2>Find Your Favorite Menu</h2>
+  <img src="assets/images/template.png" alt="Blue Coffee with Cookies" />
+  <h3>RISTRETTO BIANCO</h3>
+  <p>Available Only at Cafe and Delivery</p>
+  <p>$5,00</p>
+  <p>Get 20% Off in App</p>
+
+  <img src="assets/images/template.png" alt="Blue French Toast" />
+  <h3>FRENCH TOAST WITH SUGAR</h3>
+  <p>Available Only at Cafe and Delivery</p>
+  <p>$5,00</p>
+  <p>Get 20% Off in App</p>
+
+  <img src="assets/images/template.png" alt="Coffee bag" />
+  <h3>AT HOME HOUSE BLEND</h3>
+  <p>Available Buy at Website</p>
+  <p>$5,00</p>
+  <p>Get 20% Off in App</p>
+
+  <button on:click={() => push('/')}>Explore Other Menu</button>
+
+  <h2>8 Comfy Workspace</h2>
+  <p>"We provide many attractive and unique workspaces so you will have no trouble finding a workspace."</p>
+  <img src="assets/images/template.png" alt="Image of indoor seating area with hanging plants" />
+  <h3>"WHITE WALL Workspace"</h3>
+  <p>Workspace</p>
+  <img src="assets/images/template.png" alt="Image of indoor seating area with hanging plants" />
+    <h3>"LONG WINDOW Workspace"</h3>
+  <p>Workspace</p>
+  <img src="assets/images/template.png" alt="Image of indoor seating area with hanging plants" />
+  <h3>GENGS SPACE</h3>
+  <p>Workspace</p>
+
+  <h2>We Grow Together With Our Customer</h2>
+  <p>We believe that we are big not because of us but because of them. they are the ones who motivate us to continue to innovate to provide a quality coffee taste and comfortable space that is getting better every day.</p>
+
+  <button on:click={goToEventList}>Explore Other Event</button>
+
+  <img src="assets/images/template.png" alt="Image of latte art" />
+  <h3>LATTE ART WORKSHOP</h3>
+  <p>20 Feb 2023</p>
+
+  <img src="assets/images/template.png" alt="Image of Coffee Machine" />
+  <p>EXHIBITION COFFEE HARDWARE</p>
+
+  <div >
+    <p>"Imaji Coffee Podcast"</p>
+    <p>Podcast player component</p>
+  </div>
+
+  <h2>Latest News</h2>
+  <p>"Get the latest updates and deeper coffee experience from IMA4JI Coffee."</p>
+  <img src="assets/images/template.png" alt="Coffee shop scene" />
+  <p on:click={goToBlogDetail}>"Collaboration to develop Coffee and Beverage Industry Expertise in Indonesia"</p>
+  <button on:click={goToBlogList}>See All News</button>
+
+  <p>"Terms and Conditions | Privacy Policy"</p>
+  <p>© 2023 IMAJI COFFEE, All rights reserved</p>
+</div>
+2025-09-06 23:15:46,318 - INFO 
+ Successfully saved: ./result/landing_home_page.svelte
+2025-09-06 23:15:46,319 - INFO 
+ [landing_home] Implemented IDs: []
+2025-09-06 23:15:46,319 - INFO 
+ [landing_home] Not Implemented IDs: ['blog_detail', 'blog_list', 'event_list']
+2025-09-06 23:15:46,319 - INFO 
+ [landing_home] Refining navigation - iteration 1
+2025-09-06 23:15:46,320 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:15:53,198 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2025-09-06 23:15:53,207 - INFO 
+ AFC remote call 1 is done.
+2025-09-06 23:15:53,211 - INFO 
+ Successfully saved: ./result/landing_home_page.svelte
+2025-09-06 23:15:53,211 - INFO 
+ [landing_home] Implemented IDs: []
+2025-09-06 23:15:53,211 - INFO 
+ [landing_home] Not Implemented IDs: ['blog_detail', 'blog_list', 'event_list']
+2025-09-06 23:15:53,211 - INFO 
+ [landing_home] Refining navigation - iteration 2
+2025-09-06 23:15:53,213 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:16:00,082 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2025-09-06 23:16:00,089 - INFO 
+ AFC remote call 1 is done.
+2025-09-06 23:16:00,089 - INFO 
+ Successfully saved: ./result/landing_home_page.svelte
+2025-09-06 23:16:00,090 - INFO 
+ [landing_home] Implemented IDs: []
+2025-09-06 23:16:00,090 - INFO 
+ [landing_home] Not Implemented IDs: ['blog_detail', 'blog_list', 'event_list']
+2025-09-06 23:16:00,090 - INFO 
+ [landing_home] Refining navigation - iteration 3
+2025-09-06 23:16:00,090 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:16:07,147 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2025-09-06 23:16:07,152 - INFO 
+ AFC remote call 1 is done.
+2025-09-06 23:16:07,154 - INFO 
+ Successfully saved: ./result/landing_home_page.svelte
+2025-09-06 23:16:07,154 - INFO 
+ [landing_home] Implemented IDs: []
+2025-09-06 23:16:07,155 - INFO 
+ [landing_home] Not Implemented IDs: ['blog_detail', 'blog_list', 'event_list']
+2025-09-06 23:16:09,166 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:16:19,641 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2025-09-06 23:16:19,648 - INFO 
+ AFC remote call 1 is done.
+2025-09-06 23:16:19,649 - INFO 
+ ----------event_list code:----------
+<script>
+  import { push } from 'svelte-spa-router';
+
+  let upcomingEvents = [
+    { title: 'Latte Art Workshop', date: '20 Feb 2023', image: 'assets/images/template.png' },
+    { title: 'Exhibition Coffee Hardware', date: '20 Mar 2023', image: 'assets/images/template.png' },
+    { title: 'Factory Visit', date: '20 Apr 2023', image: 'assets/images/template.png' }
+  ];
+
+  let closedEvents = [
+    { title: 'Bezzera Latte Art Competition', date: '20 Feb 2023', image: 'assets/images/template.png' },
+    { title: 'Sensory and Cupping Class', date: '20 Mar 2023', image: 'assets/images/template.png' },
+    { title: 'Public Cupping', date: '20 Feb 2023', image: 'assets/images/template.png' },
+    { title: 'Competitions and Showcases', date: '20 Mar 2023', image: 'assets/images/template.png' },
+    { title: 'Art and Coffee Festival', date: '20 Mar 2023', image: 'assets/images/template.png' }
+  ];
+
+  function goToHomePage() {
+    push('/');
+  }
+</script>
+
+<header>
+  <a href="/" on:click|preventDefault={goToHomePage}>IMAJI Coffee.</a>
+  <nav>
+    <a href="/">Home</a>
+    <a href="/">Story</a>
+    <a href="/">Menu</a>
+    <a href="/">Space</a>
+    <a href="/">Community</a>
+    <a href="/">News</a>
+    <button on:click={() => push('/order')}>Order</button>
+    <button on:click={() => push('/sign-in')}>Sign In</button>
+  </nav>
+</header>
+
+<main>
+  <h1>Our Upcoming Events</h1>
+  <p>We believe that we are big not because of us but because of them. they are the ones who motivate us to continue to innovate to provide a quality coffee taste and comfortable space that is getting better every day.</p>
+
+  <section class="upcoming-events">
+    {#each upcomingEvents as event}
+      <a href="/">
+        <img src={event.image} alt={event.title} />
+        <p>{event.title}</p>
+        <p>{event.date}</p>
+      </a>
+    {/each}
+  </section>
+
+  <h2>Events Closed</h2>
+
+  <section class="closed-events">
+    {#each closedEvents as event}
+      <a href="/">
+        <img src={event.image} alt={event.title} />
+        <h3>{event.title}</h3>
+        <p>{event.date}</p>
+      </a>
+    {/each}
+  </section>
+
+  <button>Load More</button>
+</main>
+
+<footer>
+  <section class="location">
+    <h2>Our Location</h2>
+    <p>Jl. Bangkringan No 19, RT.11/RW.2, Kota Surabaya, 60124
+      Customer Service +6282-2876-6862
+      We Are Open from Sun - Mon 10 AM - 22 PM</p>
+  </section>
+  <section class="social-media">
+    <a href="/"><img src="assets/images/template.png" alt="Spotify"/></a>
+    <a href="/"><img src="assets/images/template.png" alt="Instagram"/></a>
+    <a href="/"><img src="assets/images/template.png" alt="TikTok"/></a>
+    <a href="/"><img src="assets/images/template.png" alt="YouTube"/></a>
+    <a href="/"><img src="assets/images/template.png" alt="Twitter"/></a>
+    <a href="/"><img src="assets/images/template.png" alt="Telegram"/></a>
+  </section>
+
+  <section class="footer-links">
+    <a href="/">Delivery Order</a>
+    <a href="/"><img src="assets/images/template.png" alt="Apple App Store"/></a>
+    <a href="/"><img src="assets/images/template.png" alt="Google Play Store"/></a>
+  </section>
+
+  <section class="bottom-footer">
+    <p>© 2023 IMAJI COFFEE, All rights reserved</p>
+    <a href="/">Terms and Conditions</a> | <a href="/">Privacy Policy</a>
+  </section>
+</footer>
+
+<style>
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+  }
+
+  header a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+  }
+
+  header nav a {
+    margin-left: 15px;
+  }
+
+  main {
+    padding: 20px;
+  }
+
+  h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+
+  .upcoming-events, .closed-events {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+    margin-bottom: 30px;
+  }
+
+  .upcoming-events a, .closed-events a {
+    display: block;
+    text-decoration: none;
+    color: black;
+  }
+
+  .upcoming-events img, .closed-events img {
+    width: 100%;
+    height: auto;
+  }
+
+  footer {
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+  }
+</style>
+2025-09-06 23:16:19,651 - INFO 
+ Successfully saved: ./result/event_list_page.svelte
+2025-09-06 23:16:19,652 - INFO 
+ [event_list] Implemented IDs: []
+2025-09-06 23:16:19,652 - INFO 
+ [event_list] Not Implemented IDs: ['landing_home']
+2025-09-06 23:16:19,652 - INFO 
+ [event_list] Refining navigation - iteration 1
+2025-09-06 23:16:19,653 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:16:27,596 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2025-09-06 23:16:27,599 - INFO 
+ AFC remote call 1 is done.
+2025-09-06 23:16:27,600 - INFO 
+ Successfully saved: ./result/event_list_page.svelte
+2025-09-06 23:16:27,600 - INFO 
+ [event_list] Implemented IDs: []
+2025-09-06 23:16:27,600 - INFO 
+ [event_list] Not Implemented IDs: ['landing_home']
+2025-09-06 23:16:27,600 - INFO 
+ [event_list] Refining navigation - iteration 2
+2025-09-06 23:16:27,601 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:16:35,517 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2025-09-06 23:16:35,520 - INFO 
+ AFC remote call 1 is done.
+2025-09-06 23:16:35,521 - INFO 
+ Successfully saved: ./result/event_list_page.svelte
+2025-09-06 23:16:35,522 - INFO 
+ [event_list] Implemented IDs: []
+2025-09-06 23:16:35,522 - INFO 
+ [event_list] Not Implemented IDs: ['landing_home']
+2025-09-06 23:16:35,522 - INFO 
+ [event_list] Refining navigation - iteration 3
+2025-09-06 23:16:35,523 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:16:44,207 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2025-09-06 23:16:44,218 - INFO 
+ AFC remote call 1 is done.
+2025-09-06 23:16:44,220 - INFO 
+ Successfully saved: ./result/event_list_page.svelte
+2025-09-06 23:16:44,220 - INFO 
+ [event_list] Implemented IDs: []
+2025-09-06 23:16:44,220 - INFO 
+ [event_list] Not Implemented IDs: ['landing_home']
+2025-09-06 23:16:46,227 - ERROR 
+ Error building prompt for : "\n    '/'"
+2025-09-06 23:16:46,228 - ERROR 
+ Error generating App component: "\n    '/'"
+2025-09-06 23:17:59,088 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:18:09,654 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2025-09-06 23:18:09,663 - INFO 
+ AFC remote call 1 is done.
+2025-09-06 23:18:09,664 - INFO 
+ ----------blog_detail code:----------
+<script>
+  import { push } from 'svelte-spa-router';
+
+  // Article Content (replace with actual data)
+  let articleTitle = "Realizing The Mission of Global Expansion, Open its First Cafe in Singapore";
+  let articleDate = "August 19, 2022";
+  let articleImage = "assets/images/template.png";
+  let articleText = `We are a small cafe, with a big dream of becoming a global cafe. We started our operations in Singapore, and we are now expanding to Singapore. We will be opening our first cafe in Beijing soon, and we also plan to open more cafes across the globe. Realizing The Mission of Global Expansion, Open its First Cafe in Singapore
+
+The cafe is located at Dempsey Hill, one of the most sought-after areas in Singapore. It's a family-friendly neighborhood with a wide range of restaurants and cafes. With a diverse population and many people from different cultures, Global Expansion Cafe aims to bring international food culture to Singaporeans from all walks of life.
+
+We are currently running our first pop-up shop at Dempsey Hill which will run until mid-November. Global Expansion Cafe will be open for lunch and dinner on weekdays as well as weekends. Global Expansion Cafe will introduce new tastes and experiences to Singaporeans by introducing international food culture.
+
+We are currently running our pop-up shop in Singapore, and hope to launch our own café soon. A real estate company is established in Asia that develops communities and provides financial services globally. We believe in love and happiness, a sense of belonging, and the importance of a shared experience. Here you can be yourself, share stories and make friends.
+
+We partner with companies who LOVE the world. The cafe is a place where people can go to enjoy the food and coffee, but also a place where they can meet new friends. The cafe is located in Pasir Ris. The cafe has a wide variety of menu items to choose from. In addition to the usual coffee and tea, there are also some specialty drinks such as smoothies, milkshakes and frozen yogurt.
+
+There are many types of food available at the cafe such as sandwiches, soups, salads and desserts. The menu also includes vegetarian options for those who have special dietary needs. People can order their food online via the website or by calling the number given on the website. They will be able to choose their preferred time for pickup so that they don't miss out on any orders!`;
+
+  function navigateToBlogList() {
+    push('/blog_list');
+  }
+
+  function navigateToLandingHome() {
+    push('/landing_home');
+  }
+</script>
+
+<style>
+  .container {
+    font-family: sans-serif;
+    padding: 20px;
+  }
+
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+
+  .nav {
+    display: flex;
+    gap: 20px;
+  }
+
+  .article {
+    margin-bottom: 20px;
+  }
+
+  .news {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .news-item {
+    margin-bottom: 10px;
+  }
+  .location-footer {
+        margin-top: 20px;
+        padding: 20px;
+        background-color: #f0f0f0;
+        text-align: center;
+    }
+</style>
+
+<div class="container">
+  <div class="header">
+    <a href="/" on:click|preventDefault={navigateToLandingHome}>IMAIJI Coffee.</a>
+    <nav class="nav">
+      <a href="/landing_home" on:click|preventDefault={navigateToLandingHome}>Home</a>
+      <a href="/story">Story</a>
+      <a href="/menu">Menu</a>
+      <a href="/space">Space</a>
+      <a href="/community">Community</a>
+      <a href="/news" on:click|preventDefault={navigateToBlogList}>News</a>
+      <button on:click={() => alert('Order functionality not implemented')}>Order</button>
+      <a href="/signin">Sign In</a>
+    </nav>
+  </div>
+
+  <div class="article">
+    <h1>{articleTitle}</h1>
+    <p>{articleDate}</p>
+    <img src={articleImage} alt="Article Image" />
+    <p>{articleText}</p>
+  </div>
+
+  <h2>Other News</h2>
+  <div class="news">
+    <a href="/blog_detail" class="news-item" on:click|preventDefault={() => {}}>
+      Collaboration to Develop Coffee and Beverage Industry Expertise in Indonesia
+    </a>
+    <a href="/blog_detail" class="news-item" on:click|preventDefault={() => {}}>
+      Collaboration to Develop Coffee and Beverage Industry Expertise in Indonesia
+    </a>
+  </div>
+
+  <div class="location-footer">
+        <p>"J.l Bangkringan No 19, RT.II/RW.2, Kota Surabaya, 60124"</p>
+        <p>Customer Service +6282-2876-6862</p>
+        <p>We Are Open from Sun - Mon 10 AM - 22 PM</p>
+    </div>
+  <button on:click={navigateToBlogList}>Go to Blog List</button>
+  <button on:click={navigateToLandingHome}>Go to Home Page</button>
+</div>
+2025-09-06 23:18:09,665 - INFO 
+ Successfully saved: ./result/blog_detail_page.svelte
+2025-09-06 23:18:09,666 - INFO 
+ [blog_detail] Implemented IDs: []
+2025-09-06 23:18:09,666 - INFO 
+ [blog_detail] Not Implemented IDs: ['blog_list', 'landing_home']
+2025-09-06 23:18:09,666 - INFO 
+ [blog_detail] Refining navigation - iteration 1
+2025-09-06 23:18:09,667 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:18:16,301 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2025-09-06 23:18:16,305 - INFO 
+ AFC remote call 1 is done.
+2025-09-06 23:18:16,307 - INFO 
+ Successfully saved: ./result/blog_detail_page.svelte
+2025-09-06 23:18:16,307 - INFO 
+ [blog_detail] Implemented IDs: []
+2025-09-06 23:18:16,307 - INFO 
+ [blog_detail] Not Implemented IDs: ['blog_list', 'landing_home']
+2025-09-06 23:18:16,307 - INFO 
+ [blog_detail] Refining navigation - iteration 2
+2025-09-06 23:18:16,308 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:18:22,697 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2025-09-06 23:18:22,700 - INFO 
+ AFC remote call 1 is done.
+2025-09-06 23:18:22,703 - INFO 
+ Successfully saved: ./result/blog_detail_page.svelte
+2025-09-06 23:18:22,704 - INFO 
+ [blog_detail] Implemented IDs: []
+2025-09-06 23:18:22,704 - INFO 
+ [blog_detail] Not Implemented IDs: ['blog_list', 'landing_home']
+2025-09-06 23:18:22,704 - INFO 
+ [blog_detail] Refining navigation - iteration 3
+2025-09-06 23:18:22,705 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:18:28,664 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2025-09-06 23:18:28,669 - INFO 
+ AFC remote call 1 is done.
+2025-09-06 23:18:28,671 - INFO 
+ Successfully saved: ./result/blog_detail_page.svelte
+2025-09-06 23:18:28,671 - INFO 
+ [blog_detail] Implemented IDs: []
+2025-09-06 23:18:28,671 - INFO 
+ [blog_detail] Not Implemented IDs: ['blog_list', 'landing_home']
+2025-09-06 23:18:30,681 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:18:40,625 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2025-09-06 23:18:40,631 - INFO 
+ AFC remote call 1 is done.
+2025-09-06 23:18:40,632 - INFO 
+ ----------blog_list code:----------
+<script>
+  import { push } from 'svelte-spa-router';
+
+  let blogArticles = [
+    {
+      title: "Collaboration to Develop Coffee and Beverage Industry Expertise in Indonesia",
+      image: "assets/images/template.png",
+      date: "4 Min - August 19, 2022",
+      id: "collaboration"
+    },
+    {
+      title: "Visited Doesoen Sirap Coffee, The Producer of Robusta in Central Java",
+      image: "assets/images/template.png",
+      date: "4 Min - August 19, 2022",
+      id: "doesoen"
+    },
+    {
+      title: "Cold Brew Coffee, How to Drink Cold Coffee is More Enjoyable",
+      image: "assets/images/template.png",
+      date: "4 Min - August 19, 2022",
+      id: "coldbrew"
+    },
+    {
+      title: "Meet Coffee Tonic, the Sensation of Drinking Coffee-Flavored Soda",
+      image: "assets/images/template.png",
+      date: "4 Min - August 19, 2022",
+      id: "coffee tonic"
+    },
+    {
+      title: "Workshop Coffee Sharing Session",
+      image: "assets/images/template.png",
+      date: "4 Min - August 19, 2022",
+      id: "sharing"
+    },
+    {
+      title: "Workshop Coffee Brewing",
+      image: "assets/images/template.png",
+      date: "4 Min - August 19, 2022",
+      id: "brewing"
+    }
+  ];
+
+  function goToBlogDetail(id) {
+    push(`/blog_detail?id=${id}`);
+  }
+
+    function goToHome() {
+        push(`/landing_home`);
+    }
+
+</script>
+
+<style>
+  .blog-list {
+    font-family: sans-serif;
+    padding: 20px;
+  }
+
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+
+  .nav {
+    display: flex;
+    gap: 10px;
+  }
+
+  .blog-article {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 10px;
+  }
+
+  .blog-article img {
+    width: 100%;
+    max-height: 200px;
+    object-fit: cover;
+    margin-bottom: 10px;
+  }
+
+  .blog-article a {
+    text-decoration: none;
+    color: #333;
+  }
+
+  .blog-article h3 {
+    margin: 0;
+  }
+
+  .blog-article p {
+    margin: 5px 0;
+    font-size: 0.8em;
+    color: #777;
+  }
+
+  .footer {
+    margin-top: 30px;
+    text-align: center;
+    color: #777;
+    font-size: 0.8em;
+  }
+</style>
+
+<div class="blog-list">
+    <div class="header">
+         <a href="/" on:click|preventDefault={goToHome}>IMALI Coffee.</a>
+        <nav class="nav">
+            <a href="/">Home</a>
+            <a href="/">Story</a>
+            <a href="/">Menu</a>
+            <a href="/">Space</a>
+            <a href="/">Community</a>
+            <a href="/blog_list">News</a>
+            <button>Order</button>
+            <button>Sign In</button>
+        </nav>
+    </div>
+
+    <h1>Our News</h1>
+    <p>Get the latest updates and deeper coffee experience from IMAJI Coffee.</p>
+
+    <img src="assets/images/template.png" alt="Coffee shop" />
+
+  {#each blogArticles as article}
+    <div class="blog-article">
+      <img src={article.image} alt={article.title} />
+      <a href="#" on:click|preventDefault={() => goToBlogDetail(article.id)}>
+        <h3>{article.title}</h3>
+      </a>
+      <p>{article.date}</p>
+    </div>
+  {/each}
+
+  <button>Load More</button>
+
+  <h2>Our Location</h2>
+  <p>Jl. Bangkringan No 19, RT.11/RW.2, Kota Surabaya, 60124<br>
+    Customer Service +6282-2876-6862<br>
+    We Are Open from Sun - Mon 10 AM - 22 PM
+  </p>
+
+  <p>© 2023 IMAJI COFFEE, All rights reserved</p>
+</div>
+2025-09-06 23:18:40,633 - INFO 
+ Successfully saved: ./result/blog_list_page.svelte
+2025-09-06 23:18:40,633 - INFO 
+ [blog_list] Implemented IDs: []
+2025-09-06 23:18:40,634 - INFO 
+ [blog_list] Not Implemented IDs: ['blog_detail', 'landing_home']
+2025-09-06 23:18:40,634 - INFO 
+ [blog_list] Refining navigation - iteration 1
+2025-09-06 23:18:40,635 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:18:47,077 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2025-09-06 23:18:47,082 - INFO 
+ AFC remote call 1 is done.
+2025-09-06 23:18:47,084 - INFO 
+ Successfully saved: ./result/blog_list_page.svelte
+2025-09-06 23:18:47,084 - INFO 
+ [blog_list] Implemented IDs: []
+2025-09-06 23:18:47,084 - INFO 
+ [blog_list] Not Implemented IDs: ['blog_detail', 'landing_home']
+2025-09-06 23:18:47,084 - INFO 
+ [blog_list] Refining navigation - iteration 2
+2025-09-06 23:18:47,085 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:18:53,698 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2025-09-06 23:18:53,703 - INFO 
+ AFC remote call 1 is done.
+2025-09-06 23:18:53,704 - INFO 
+ Successfully saved: ./result/blog_list_page.svelte
+2025-09-06 23:18:53,705 - INFO 
+ [blog_list] Implemented IDs: []
+2025-09-06 23:18:53,705 - INFO 
+ [blog_list] Not Implemented IDs: ['blog_detail', 'landing_home']
+2025-09-06 23:18:53,705 - INFO 
+ [blog_list] Refining navigation - iteration 3
+2025-09-06 23:18:53,706 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:19:00,026 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2025-09-06 23:19:00,029 - INFO 
+ AFC remote call 1 is done.
+2025-09-06 23:19:00,030 - INFO 
+ Successfully saved: ./result/blog_list_page.svelte
+2025-09-06 23:19:00,030 - INFO 
+ [blog_list] Implemented IDs: []
+2025-09-06 23:19:00,030 - INFO 
+ [blog_list] Not Implemented IDs: ['blog_detail', 'landing_home']
+2025-09-06 23:19:02,043 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:19:11,389 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2025-09-06 23:19:11,397 - INFO 
+ AFC remote call 1 is done.
+2025-09-06 23:19:11,398 - INFO 
+ ----------landing_home code:----------
+<script>
+    import { push } from 'svelte-spa-router';
+
+    function navigateToBlogDetail() {
+        push('/blog_detail');
+    }
+
+    function navigateToBlogList() {
+        push('/blog_list');
+    }
+
+    function navigateToEventList() {
+        push('/event_list');
+    }
+
+    function navigateToHome() {
+        push('/landing_home');
+    }
+</script>
+
+<main>
+    <h1>Choose your Coffee & Space</h1>
+    <p>"IMA4JI Coffee has been serving 20,000+ cups of coffee and providing a comfortable place for our customers to work since 2010."</p>
+    <img src="assets/images/template.png" alt="template" />
+    <img src="assets/images/template.png" alt="template" />
+
+    <h2>We Provide Your Space For Your Work or Mini event With Your Favorite coffee.</h2>
+    <p>"Our story begins in 2010 with a simple idea from our founder that the most comfortable place to work is anywhere, because ideas are not limited by space and time, and the most comfortable place is in a café where their favorite coffee is available."</p>
+    <p>"All the best local coffee bean varieties from throughout Indonesia are available with us. Directly from selected farmers, high-quality beans are processed and roasted to perfection by ourselves, then passed on to our skilled baristas who are passionate about preparing a cup of longed-for happiness from home."</p>
+    <img src="assets/images/template.png" alt="template" />
+    <img src="assets/images/template.png" alt="template" />
+    <img src="assets/images/template.png" alt="template" />
+    <img src="assets/images/template.png" alt="template" />
+
+    <h2>Find Your Favorite Menu</h2>
+    <img src="assets/images/template.png" alt="template" />
+    <h3>RISTRETTO BIANCO</h3>
+    <img src="assets/images/template.png" alt="template" />
+    <h3>FRENCH TOAST WITH SUGAR</h3>
+    <img src="assets/images/template.png" alt="template" />
+    <h3>AT HOME HOUSE BLEND</h3>
+
+    <h2>8 Comfy Workspace</h2>
+    <p>"We provide many attractive and unique workspaces so you will have no trouble finding a workspace you want."</p>
+    <img src="assets/images/template.png" alt="template" />
+    <h3>"WHITE WALL Workspace"</h3>
+    <img src="assets/images/template.png" alt="template" />
+    <h3>"LONG WINDOW Workspace"</h3>
+    <img src="assets/images/template.png" alt="template" />
+    <h3>GENGS SPACE</h3>
+    <p>Workspace</p>
+
+    <h2>We Grow Together With Our Customer</h2>
+    <p>"We believe that we are big not because of us but because of them. They are the ones who motivate us to continue to innovate to provide a quality coffee taste and comfortable space that is getting better every day."</p>
+    <button on:click={() => navigateToEventList()}>Explore Other Event</button>
+    <img src="assets/images/template.png" alt="template" />
+    <h3>LATTE ART WORKSHOP</h3>
+    <p>20 Feb 2023</p>
+    <img src="assets/images/template.png" alt="template" />
+    <p>EXHIBITION COFFEE HARDWARE</p>
+    
+    <div>
+    <p>"Imaji Coffee Podcast" label:</p>
+    <p>"Podcast player component:"</p>
+    </div>
+
+    <h2>Latest News</h2>
+    <p>"Get the latest updates and deeper coffee experience from IMA4JI Coffee."</p>
+    <img src="assets/images/template.png" alt="template" />
+    <p on:click={navigateToBlogDetail}>"Collaboration to develop Coffee and Beverage Industry Expertise in Indonesia"</p>
+
+    <button on:click={navigateToBlogList}>See All News</button>
+
+    <button>Order</button>
+    <button>Sign In</button>
+
+    <p>"Terms and Conditions | Privacy Policy"</p>
+    <p>© 2023 IMAJI COFFEE, All rights reserved</p>
+</main>
+2025-09-06 23:19:11,399 - INFO 
+ Successfully saved: ./result/landing_home_page.svelte
+2025-09-06 23:19:11,400 - INFO 
+ [landing_home] Implemented IDs: []
+2025-09-06 23:19:11,400 - INFO 
+ [landing_home] Not Implemented IDs: ['blog_detail', 'blog_list', 'event_list']
+2025-09-06 23:19:11,400 - INFO 
+ [landing_home] Refining navigation - iteration 1
+2025-09-06 23:19:11,401 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:19:17,027 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2025-09-06 23:19:17,032 - INFO 
+ AFC remote call 1 is done.
+2025-09-06 23:19:17,033 - INFO 
+ Successfully saved: ./result/landing_home_page.svelte
+2025-09-06 23:19:17,033 - INFO 
+ [landing_home] Implemented IDs: []
+2025-09-06 23:19:17,033 - INFO 
+ [landing_home] Not Implemented IDs: ['blog_detail', 'blog_list', 'event_list']
+2025-09-06 23:19:17,033 - INFO 
+ [landing_home] Refining navigation - iteration 2
+2025-09-06 23:19:17,034 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:19:22,283 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2025-09-06 23:19:22,288 - INFO 
+ AFC remote call 1 is done.
+2025-09-06 23:19:22,289 - INFO 
+ Successfully saved: ./result/landing_home_page.svelte
+2025-09-06 23:19:22,290 - INFO 
+ [landing_home] Implemented IDs: []
+2025-09-06 23:19:22,290 - INFO 
+ [landing_home] Not Implemented IDs: ['blog_detail', 'blog_list', 'event_list']
+2025-09-06 23:19:22,290 - INFO 
+ [landing_home] Refining navigation - iteration 3
+2025-09-06 23:19:22,291 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:19:27,268 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2025-09-06 23:19:27,273 - INFO 
+ AFC remote call 1 is done.
+2025-09-06 23:19:27,275 - INFO 
+ Successfully saved: ./result/landing_home_page.svelte
+2025-09-06 23:19:27,275 - INFO 
+ [landing_home] Implemented IDs: []
+2025-09-06 23:19:27,275 - INFO 
+ [landing_home] Not Implemented IDs: ['blog_detail', 'blog_list', 'event_list']
+2025-09-06 23:19:29,284 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:19:41,069 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2025-09-06 23:19:41,076 - INFO 
+ AFC remote call 1 is done.
+2025-09-06 23:19:41,076 - INFO 
+ ----------event_list code:----------
+<script>
+  import { push } from 'svelte-spa-router';
+
+  const headerLinks = [
+    { text: 'Home', href: '/' },
+    { text: 'Story', href: '/story' },
+    { text: 'Menu', href: '/menu' },
+    { text: 'Space', href: '/space' },
+    { text: 'Community', href: '/community' },
+    { text: 'News', href: '/news' },
+    { text: 'Order', href: '/order' },
+  ];
+
+  const upcomingEvents = [
+    {
+      title: 'Latte Art Workshop',
+      date: '20 Feb 2023',
+      image: 'assets/images/template.png',
+    },
+    {
+      title: 'Exhibition Coffee Hardware',
+      date: '20 Mar 2023',
+      image: 'assets/images/template.png',
+    },
+    {
+      title: 'Factory Visit',
+      date: '20 Apr 2023',
+      image: 'assets/images/template.png',
+    },
+  ];
+
+  const closedEvents = [
+    {
+      title: 'Bezzera Latte Art Competition',
+      date: '20 Feb 2023',
+      image: 'assets/images/template.png',
+    },
+    {
+      title: 'Sensory and Cupping Class',
+      date: '20 Mar 2023',
+      image: 'assets/images/template.png',
+    },
+    {
+      title: 'Public Cupping',
+      date: '20 Feb 2023',
+      image: 'assets/images/template.png',
+    },
+    {
+      title: 'Competitions and Showcases',
+      date: '20 Mar 2023',
+      image: 'assets/images/template.png',
+    },
+    {
+      title: 'Art and Coffee Festival',
+      date: '20 Mar 2023',
+      image: 'assets/images/template.png',
+    },
+  ];
+
+  function goToHomePage() {
+    push('/');
+  }
+</script>
+
+<header>
+  <a href="/" on:click|preventDefault={goToHomePage}>
+    IMAJI Coffee.
+  </a>
+  <nav>
+    <ul>
+      {#each headerLinks as link}
+        <li>
+          <a href={link.href} on:click|preventDefault={() => push(link.href === '/' ? '/' : link.href.slice(1))}>
+            {link.text}
+          </a>
+        </li>
+      {/each}
+      <li>
+        <button on:click={() => alert('Sign In')}>Sign In</button>
+      </li>
+    </ul>
+  </nav>
+</header>
+
+<main>
+  <h1>Our Upcoming Events</h1>
+  <p>
+    We believe that we are big not because of us but because of them. they are the ones who motivate us to continue to innovate to provide a quality coffee taste and comfortable space that is getting better every day.
+  </p>
+
+  <section class="upcoming-events">
+    {#each upcomingEvents as event}
+      <a href="/event/{event.title.toLowerCase().replace(/ /g, '-')}">
+        <img src={event.image} alt={event.title} />
+        <h3>{event.title}</h3>
+        <p>{event.date}</p>
+      </a>
+    {/each}
+  </section>
+
+  <h2>Events Closed</h2>
+
+  <section class="closed-events">
+    {#each closedEvents as event}
+      <a href="/event/{event.title.toLowerCase().replace(/ /g, '-')}">
+        <img src={event.image} alt={event.title} />
+        <h3>{event.title}</h3>
+        <p>{event.date}</p>
+      </a>
+    {/each}
+  </section>
+
+  <button>Load More</button>
+</main>
+
+<footer>
+  <section class="location">
+    <h2>Our Location</h2>
+    <p>Jl. Bangkringan No 19, RT.11/RW.2, Kota Surabaya, 60124</p>
+    <p>Customer Service +6282-2876-6862</p>
+    <p>We Are Open from Sun - Mon 10 AM - 22 PM</p>
+  </section>
+
+  <section class="social-media">
+    <a href="/">Delivery Order</a>
+    <a href="/"><img src="assets/images/template.png" alt="Apple App Store Button" /></a>
+    <a href="/"><img src="assets/images/template.png" alt="Google Play Store Button" /></a>
+  </section>
+
+  <section class="copyright">
+    <p>© 2023 IMAJI COFFEE, All rights reserved</p>
+    <a href="/">Terms and Conditions</a>
+    <a href="/">Privacy Policy</a>
+  </section>
+</footer>
+
+<style>
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+  }
+
+  header a {
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+  }
+
+  header nav ul {
+    list-style: none;
+    display: flex;
+  }
+
+  header nav ul li {
+    margin-left: 20px;
+  }
+
+  main {
+    padding: 20px;
+  }
+
+  h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+
+  .upcoming-events,
+  .closed-events {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+    margin-bottom: 20px;
+  }
+
+  .upcoming-events a,
+  .closed-events a {
+    display: block;
+    text-decoration: none;
+    color: black;
+  }
+
+  .upcoming-events img,
+  .closed-events img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+  }
+
+  footer {
+    background-color: #f0f0f0;
+    padding: 20px;
+  }
+
+  button {
+    padding: 10px 20px;
+    background-color: #ddd;
+    border: none;
+    cursor: pointer;
+  }
+</style>
+2025-09-06 23:19:41,078 - INFO 
+ Successfully saved: ./result/event_list_page.svelte
+2025-09-06 23:19:41,079 - INFO 
+ [event_list] Implemented IDs: []
+2025-09-06 23:19:41,079 - INFO 
+ [event_list] Not Implemented IDs: ['landing_home']
+2025-09-06 23:19:41,079 - INFO 
+ [event_list] Refining navigation - iteration 1
+2025-09-06 23:19:41,080 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:19:49,208 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2025-09-06 23:19:49,215 - INFO 
+ AFC remote call 1 is done.
+2025-09-06 23:19:49,217 - INFO 
+ Successfully saved: ./result/event_list_page.svelte
+2025-09-06 23:19:49,217 - INFO 
+ [event_list] Implemented IDs: []
+2025-09-06 23:19:49,217 - INFO 
+ [event_list] Not Implemented IDs: ['landing_home']
+2025-09-06 23:19:49,217 - INFO 
+ [event_list] Refining navigation - iteration 2
+2025-09-06 23:19:49,218 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:19:57,594 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2025-09-06 23:19:57,599 - INFO 
+ AFC remote call 1 is done.
+2025-09-06 23:19:57,601 - INFO 
+ Successfully saved: ./result/event_list_page.svelte
+2025-09-06 23:19:57,602 - INFO 
+ [event_list] Implemented IDs: []
+2025-09-06 23:19:57,602 - INFO 
+ [event_list] Not Implemented IDs: ['landing_home']
+2025-09-06 23:19:57,602 - INFO 
+ [event_list] Refining navigation - iteration 3
+2025-09-06 23:19:57,603 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:20:06,074 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2025-09-06 23:20:06,083 - INFO 
+ AFC remote call 1 is done.
+2025-09-06 23:20:06,084 - INFO 
+ Successfully saved: ./result/event_list_page.svelte
+2025-09-06 23:20:06,084 - INFO 
+ [event_list] Implemented IDs: []
+2025-09-06 23:20:06,084 - INFO 
+ [event_list] Not Implemented IDs: ['landing_home']
+2025-09-06 23:20:08,093 - INFO 
+ AFC is enabled with max remote calls: 10.
+2025-09-06 23:20:09,863 - INFO 
+ HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent "HTTP/1.1 200 OK"
+2025-09-06 23:20:09,867 - INFO 
+ AFC remote call 1 is done.
+2025-09-06 23:20:09,867 - INFO 
+ =========App.svelte code:=========
+<script>
+  import Router from 'svelte-spa-router'
+  import Home from './routes/Home.svelte'
+  import BlogList from './routes/BlogList.svelte'
+  import BlogDetail from './routes/BlogDetail.svelte'
+  import EventList from './routes/EventList.svelte'
+
+  const routes = {
+    '/': Home,
+    '/home': Home,
+    '/blog': BlogList,
+    '/blog/:id': BlogDetail,
+    '/events': EventList,
+  }
+</script>
+
+<main>
+  <h1>Coffee Company</h1>
+  <Router {routes} />
+</main>
+
+<style>
+  main {
+    padding: 1rem;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+  h1 {
+    text-align: center;
+    margin-bottom: 2rem;
+    color: #333;
+  }
+</style>
+
+2025-09-06 23:20:09,868 - INFO 
+ Successfully saved: ./result/App.svelte

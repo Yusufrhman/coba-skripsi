@@ -1,0 +1,170 @@
+{
+  "N": [
+    {
+      "id": "landing_home",
+      "name": "Landing Home Page",
+      "type": "home",
+      "props": {
+        "layout": "scroll",
+        "header": [
+          "Home",
+          "Story",
+          "Menu",
+          "Space",
+          "Community",
+          "News",
+          "Order",
+          "Sign In"
+        ],
+        "heroSection": "Realizing The Mission of Global Expansion...",
+        "newsSection": "Other News",
+        "newsArticles": [
+          "Collaboration to Develop Coffee and Beverage Industry Expertise in Singapore",
+          "Collaboration to Develop Coffee and Beverage Industry Expertise in Indonesia"
+        ],
+        "locationFooter": true
+      }
+    },
+    {
+      "id": "blog_list",
+      "name": "Blog List Page",
+      "type": "list",
+      "props": {
+        "layout": "list",
+        "header": [
+          "Home",
+          "Story",
+          "Menu",
+          "Space",
+          "Community",
+          "News",
+          "Order",
+          "Sign In"
+        ],
+        "title": "Our News",
+        "blogArticles": [
+          "Collaboration to Develop Coffee and Beverage Industry Expertise in Indonesia",
+          "Visited Doesoen Sirap Coffee, The Producer of Robusta in Central Java",
+          "Cold Brew Coffee, How to Drink Cold Coffee is More Enjoyable",
+          "Meet Coffee Tonic, the Sensation of Drinking Coffee-Flavored Soda",
+          "Workshop Coffee Sharing Session",
+          "Workshop Coffee Brewing"
+        ],
+        "loadMoreButton": true,
+        "locationFooter": true
+      }
+    },
+    {
+      "id": "blog_detail",
+      "name": "Blog Detail Page",
+      "type": "detail",
+      "props": {
+        "layout": "scroll",
+        "header": [
+          "Home",
+          "Story",
+          "Menu",
+          "Space",
+          "Community",
+          "News",
+          "Order",
+          "Sign In"
+        ],
+        "articleContent": "Full blog article content",
+        "locationFooter": true
+      }
+    },
+    {
+      "id": "event_list",
+      "name": "Event List Page",
+      "type": "list",
+      "props": {
+        "layout": "list",
+        "header": [
+          "Home",
+          "Story",
+          "Menu",
+          "Space",
+          "Community",
+          "News",
+          "Order",
+          "Sign In"
+        ],
+        "title": "Our Upcoming Events",
+        "upcomingEvents": [
+          "Latte Art Workshop",
+          "Exhibition Coffee Hardware",
+          "Factory Visit"
+        ],
+        "eventsClosedTitle": "Events Closed",
+        "closedEvents": [
+          "Bezzera Latte Art Competition",
+          "Sensory and Cupping Class",
+          "Public Cupping",
+          "Competitions and Showcases",
+          "Art and Coffee Festival"
+        ],
+        "loadMoreButton": true,
+        "locationFooter": true
+      }
+    }
+  ],
+  "E": [
+    {
+      "id": "landing_home->blog_detail",
+      "from": "landing_home",
+      "to": "blog_detail",
+      "conditions": "userTapsNewsArticleOnHomePage",
+      "actions": "loadBlogDetail"
+    },
+    {
+      "id": "blog_list->blog_detail",
+      "from": "blog_list",
+      "to": "blog_detail",
+      "conditions": "userTapsNewsArticleOnBlogListPage",
+      "actions": "loadBlogDetail"
+    },
+    {
+      "id": "landing_home->blog_list",
+      "from": "landing_home",
+      "to": "blog_list",
+      "conditions": "userTapsNewsLink",
+      "actions": "loadBlogList"
+    },
+    {
+      "id": "blog_detail->blog_list",
+      "from": "blog_detail",
+      "to": "blog_list",
+      "conditions": "userTapsBackButton",
+      "actions": "loadBlogList"
+    },
+    {
+      "id": "landing_home->event_list",
+      "from": "landing_home",
+      "to": "event_list",
+      "conditions": "userTapsMenuAndSelectsEvent",
+      "actions": "loadEventList"
+    },
+    {
+      "id": "blog_list->landing_home",
+      "from": "blog_list",
+      "to": "landing_home",
+      "conditions": "userTapsHomeButton",
+      "actions": "loadHomePage"
+    },
+    {
+      "id": "blog_detail->landing_home",
+      "from": "blog_detail",
+      "to": "landing_home",
+      "conditions": "userTapsHomeButton",
+      "actions": "loadHomePage"
+    },
+    {
+      "id": "event_list->landing_home",
+      "from": "event_list",
+      "to": "landing_home",
+      "conditions": "userTapsHomeButton",
+      "actions": "loadHomePage"
+    }
+  ]
+}

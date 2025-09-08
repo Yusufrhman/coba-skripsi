@@ -1,0 +1,269 @@
+Load More:
+This is a button that likely loads more content, such as additional news articles, onto the page. It probably triggers an API call and updates the displayed data.
+@@@button@@@
+
+Google Play button:
+This is an image wrapped in a link. It redirects the user to the Google Play Store to download the application.
+@@@a@@@
+
+Order button:
+This is a button that likely navigates the user to the order page or opens a modal for placing an order.
+@@@button@@@
+
+Apple App Store button:
+This is an image wrapped in a link. It redirects the user to the Apple App Store to download the application.
+@@@a@@@
+
+Sign In button:
+This is a button that allows the user to sign in to their account.
+@@@button@@@
+
+Workshop Coffee Sharing Session image:
+This is a static image representing an article or event related to coffee sharing sessions.
+@@@img@@@
+
+Workshop Coffee Brewing image:
+This is a static image representing an article or event related to coffee brewing.
+@@@img@@@
+
+Delivery Order:
+This is text, likely a link, indicating that users can place orders for delivery.
+@@@p@@@
+
+All rights reserved:
+This is a copyright notice text at the footer of the page.
+@@@p@@@
+
+Workshop Coffee Brewing text:
+This is a heading for an article or section about Workshop Coffee Brewing.
+@@@h3@@@
+
+Imaji Coffee. label:
+This is the logo or brand name of the coffee shop, likely linking to the homepage.
+@@@a@@@
+
+Home Story Menu Space Community News Order Sign in:
+This is the main navigation menu. Each item is a link to a different section of the website.
+@@@nav@@@
+
+Our News:
+This is the main heading for the "Our News" section of the webpage.
+@@@h1@@@
+
+"Get the latest updates and deeper coffee experience from IMAJI Coffee.":
+This is a subheading or description for the "Our News" section.
+@@@p@@@
+
+Coffee shop picture:
+This is an image that illustrates or represents the content of the "Our News" section, specifically related to the latest updates and coffee experience from IMAJI Coffee.
+@@@img@@@
+
+"Collaboration to Develop Coffee and Beverage Industry Expertise in Indonesia":
+This is the title of a news article. It likely links to the full article.
+@@@a@@@
+
+"4 Min - August 19, 2022":
+This is metadata for a news article, indicating the reading time and publication date.
+@@@p@@@
+
+Coffee in cup picture:
+This is an image related to a news article about coffee.
+@@@img@@@
+
+"Visited Doesoen Sirap Coffee, The Producer of Robusta in Central Java":
+This is the title of a news article. It likely links to the full article.
+@@@a@@@
+
+"4 Min - August 19, 2022":
+This is metadata for a news article, indicating the reading time and publication date.
+@@@p@@@
+
+Cold Brew Coffee picture:
+This is an image related to a news article about cold brew coffee.
+@@@img@@@
+
+"Cold Brew Coffee, How to Drink Cold Coffee is More Enjoyable":
+This is the title of a news article. It likely links to the full article.
+@@@a@@@
+
+"4 Min - August 19, 2022":
+This is metadata for a news article, indicating the reading time and publication date.
+@@@p@@@
+
+Coffee and Tonic picture:
+This is an image related to a news article about coffee tonic.
+@@@img@@@
+
+"Meet Coffee Tonic, the Sensation of Drinking Coffee-Flavored Soda":
+This is the title of a news article. It likely links to the full article.
+@@@a@@@
+
+"4 Min - August 19, 2022":
+This is metadata for a news article, indicating the reading time and publication date.
+@@@p@@@
+
+Coffee being poured picture:
+This is an image related to a news article about coffee sharing sessions.
+@@@img@@@
+
+"Workshop Coffee Sharing Session":
+This is the title of a news article. It likely links to the full article.
+@@@a@@@
+
+"4 Min - August 19, 2022":
+This is metadata for a news article, indicating the reading time and publication date.
+@@@p@@@
+
+Coffee brewing picture:
+This is an image related to a news article about coffee brewing.
+@@@img@@@
+
+"Workshop Coffee Brewing":
+This is the title of a news article. It likely links to the full article.
+@@@a@@@
+
+"4 Min - August 19, 2022":
+This is metadata for a news article, indicating the reading time and publication date.
+@@@p@@@
+
+Load More:
+This is a button that, when clicked, likely loads more news articles.
+@@@button@@@
+
+Our Location:
+This is a heading for the "Our Location" section of the webpage, which contains the physical address and contact information for the coffee shop.
+@@@h2@@@
+
+Address and contact information for Imaji Coffee:
+This is the address and contact information for the coffee shop.
+@@@p@@@
+
+App Store and Google Play logos:
+These are logos linking to the app store pages where the coffee shop's app can be downloaded.
+@@@a@@@
+
+Social media icons:
+These are icons linking to the coffee shop's social media profiles.
+@@@a@@@
+
+Copyright information:
+This is the copyright information for the website.
+@@@p@@@
+
+Terms and Conditions | Privacy Policy:
+These are links to the Terms and Conditions and Privacy Policy pages.
+@@@nav@@@
+
+Coffee in glass and cup picture:
+This is an image related to a news article about coffee.
+@@@img@@@
+
+Coffee being poured picture:
+This is an image related to a news article about coffee.
+@@@img@@@
+
+Coffee being brewed picture:
+This is an image related to a news article about coffee brewing.
+@@@img@@@
+
+Community:
+This is a navigation link to the community section.
+@@@a@@@
+
+Get the latest updates and deeper coffee experience from IMAJI Coffee.
+This is a descriptive text likely used to provide context or introduce the "Our News" section.
+@@@p@@@
+
+Coffee Image:
+This is likely a representative image for a news article, perhaps displaying a unique brewing process.
+@@@img@@@
+
+Coffee Image:
+This is an image for one of the news articles.
+@@@img@@@
+
+Space:
+This is a navigation link, likely used to navigate to a page describing the physical space or locations of the coffee shop.
+@@@a@@@
+
+Coffee Beans Image:
+This is most likely a representative image for a news article on a roasting process.
+@@@img@@@
+
+Cold Brew Coffee, How to Drink Cold Coffee is More Enjoyable
+This is a title/heading for a news article.
+@@@h3@@@
+
+Story:
+This is a navigation link, likely used to navigate to the story or history of the coffee shop.
+@@@a@@@
+
+Menu:
+This is a navigation link, likely used to navigate to the coffee shop's menu.
+@@@a@@@
+
+Arrow icon:
+This is likely a decorative arrow icon used to direct the user's attention or to indicate a direction/action (e.g., a link to scroll or navigate).
+@@@i@@@
+
+Collaboration to Develop Coffee and Beverage Industry Expertise in Indonesia
+This is a title/heading for a news article.
+@@@h3@@@
+
+Meet Coffee Tonic, the Sensation of Drinking Coffee-Flavored Soda
+This is a title/heading for a news article.
+@@@h3@@@
+
+IMAAJI Coffee. logo:
+This is the company logo, likely a link to the homepage.
+@@@a@@@
+
+Home:
+This appears to be a link to the homepage.
+@@@a@@@
+
+News:
+This is likely a link to the news section of the website.
+@@@a@@@
+
+Delivery Order:
+This appears to be a button that allows users to place a delivery order.
+@@@button@@@
+
+Workshop Coffee Sharing Session:
+This is the title of a news article or event.
+@@@h2@@@
+
+Image with coffee being poured:
+This is a decorative image associated with a news article or blog post about coffee.
+@@@img@@@
+
+Jl. Bangkringan No 19, RT.11/RW.2, Kota Surabaya, 60124
+Customer Service +6282-2876-6862
+We Are Open from Sun - Mon 10 AM - 22 PM:
+This is the physical address, customer service number, and opening hours of the coffee shop. These are static textual information.
+@@@p@@@
+
+Policy:
+This is a link to the privacy policy of the website.
+@@@a@@@
+
+IMALI Coffee. :
+This is the logo of the coffee shop, likely a link to the homepage.
+@@@a@@@
+
+Home Story Menu Space Community News Order Sign In:
+This is the main navigation menu, providing links to different sections of the website.
+@@@nav@@@
+
+4 Min • August 19, 2022:
+This represents metadata for a blog post or article, indicating the reading time and publication date.
+@@@span@@@
+
+TikTok logo:
+This is an icon linking to the company's TikTok profile.
+@@@a@@@
+
+Three horizontal lines logo:
+This is likely a menu icon, potentially used for a mobile navigation menu or to represent other options.
+@@@button@@@
