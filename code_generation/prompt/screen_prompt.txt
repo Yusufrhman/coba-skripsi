@@ -1,0 +1,66 @@
+You are an engineer proficient in Svelte.js.
+
+# Task Description
+
+Your task is to write Svelte.js code for a web app that meets my requirements.
+
+I will provide you with the following:
+
+1. Function descriptions of each component and their types:
+   The component types will be given in a fixed format:
+   Component Keyword:
+   Component Function Description.
+   @@@Component Type@@@
+
+2. Page Transition Graph (PTG)
+   Formal Definition of PTG:
+   A Page Transition Graph is a directed graph G = (N, E), where:
+
+   N is the set of nodes representing the various screens (pages) in the App. Each node n ∈ N represents a specific screen and has the following attributes:
+
+   * id: A unique identifier for the node, typically a string or integer.
+   * name: The name of the screen, used for readability and code generation.
+   * type: The type of the screen, such as "login page," "list page," "detail page," etc., to guide code generation.
+   * props: Other attributes of the screen, such as element layout, style, etc., to describe the screen in detail.
+
+   E is the set of directed edges (Edge) representing the transition relationships between screens. Each edge e = (n1, n2, c) ∈ E represents a transition from screen n1 to screen n2 and has the following attributes:
+
+   * id: A unique identifier for the edge.
+   * from: The id of the starting node n1.
+   * to: The id of the target node n2.
+   * conditions: The condition c that triggers this transition, usually a boolean expression.
+   * actions: The actions that need to be performed during the transition, such as data transfer, state update, etc.
+
+3. A complete web app UI screenshot.
+
+# Component Types and Function Description
+
+{component_type}
+
+# Page Transition Graph (PTG)
+
+{PTG}
+
+# Complete App UI screenshot
+
+Note:
+
+* Pay attention to the characteristics of declarative UI in the code:
+
+  * Declarative Description: Describe the UI structure directly in the HTML-like markup section of the `.svelte` file.
+  * State-Driven View Update: Define reactive state using `let` in the `<script>` tag. When the value of a variable is changed through an assignment, Svelte automatically updates the parts of the DOM that depend on it. You should not directly manipulate the DOM; instead, modify state variables, and Svelte will handle the UI updates.
+* Pay attention to the proper inclusion of event methods in the code: Handle events using the `on:eventname` directive, like `on:click={{handleClick}}`. Define the corresponding handler functions within the `<script>` tag.
+* Please reflect appropriate instant effects in the code based on the function descriptions of each component, such as a camera icon corresponding to the action of opening a file dialog upon click.
+* If you need to use template strings in your code, please pay attention to the syntax of template strings: template literals are enclosed with backticks (`), not double quotes (") or single quotes ('). In addition to regular strings, template literals can also contain placeholders—embedded expressions delimited by a dollar sign and curly braces: `\${{expression}}\`.
+* Pay attention to the rational layout, and you can appropriately optimize the code to make the logic smoother.
+* Do not set up the main `Router` component, as this will be handled in a parent component (like `App.svelte`).
+* Use standard HTML5 elements for your components (e.g., `<div>`, `<button>`, `<a>`, `<img>`). Do not import external UI component libraries.
+* Define component-specific styles within a `<style>` block in the same `.svelte` file. Svelte will automatically scope these styles to the component.
+* use [https://artistintelligence.org/wp-content/uploads/2015/08/import\_placeholder.png](https://artistintelligence.org/wp-content/uploads/2015/08/import_placeholder.png) for the image placeholder
+* Make all generated components and pages responsive across common device widths (mobile, tablet, desktop). Follow a mobile-first approach: use flexible layouts (flexbox or CSS grid), fluid images, relative units (%, rem, em), sensible breakpoints (e.g., 640px, 768px, 1024px), and media queries. Ensure touch-friendly controls, readable font sizes on small screens, and that components gracefully reflow (stacking, collapsing, or hiding non-essential elements) on narrow viewports. Include comments in the stylesheet showing the breakpoints used.
+
+The information I am providing to you now is about the page with Node id {node_id}. This component should be created in a file named `{node_id}.svelte`. You must consider the transition logic between pages based on the PTG. To navigate to another page, you must use the `goto` action from `@mateothegreat/svelte5-router`. For example: `import {{ route }} from '@mateothegreat/svelte5-router'; <a href="/home" use:route>Home</a>`. Ensure the path in the `href` attribute matches the target node's ID in the PTG, prefixed with a slash (e.g., `/dashboard`). for the root page (node_id === root), the href is '/' only. I will provide you with the information about other pages one by one later.
+
+You should return to me a piece of Svelte.js code that implements component type descriptions and the transition logic between pages based on the PTG. Please strictly adhere to the component types and PTG to write a standardized Svelte.js code. Assume any necessary images are located in the `public/` directory and can be referenced with a root-relative path like `<img src="/snack-icon.png" alt="icon">`.
+
+Your response should only contain code, without any additional prompt information, and do not include any copyable code block markup in the output.

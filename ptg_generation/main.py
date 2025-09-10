@@ -4,11 +4,6 @@ import base64
 from google import genai
 from google.genai import types
 
-picture_folder = "../images"
-ptg_prompt_path = "PTG_Prompt.txt"
-ptg_result_path = "PTG_Result.json" 
-
-
 def encode_image(image_path):
     with open(image_path, "rb") as image_file:
         return base64.b64encode(image_file.read()).decode("utf-8")
@@ -31,6 +26,7 @@ def ptg_generate(image_dir, content):
 
     # Initialize Gemini client
     client = genai.Client()
+    
 
     # prepare prompt gemini
     contents = [types.Part(text=content)]
@@ -43,7 +39,7 @@ def ptg_generate(image_dir, content):
 
     # generate pake gemini-2.0-flash-exp
     response = client.models.generate_content(
-        model="gemini-2.0-flash-exp",
+        model="gemini-2.5-flash",
         contents=contents,
     )
 
@@ -69,6 +65,10 @@ def ptg_generate(image_dir, content):
 
 
 if __name__ == "__main__":
+    picture_folder = "../images"
+    ptg_prompt_path = "PTG_Prompt.txt"
+    ptg_result_path = "PTG_Result.json" 
+    
     # baca prompt
     with open(ptg_prompt_path, "r", encoding="utf-8") as f:
         ptg_prompt = f.read()

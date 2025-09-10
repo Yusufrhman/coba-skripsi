@@ -1,170 +1,465 @@
 {
   "N": [
     {
-      "id": "landing_home",
-      "name": "Landing Home Page",
-      "type": "home",
+      "id": "root",
+      "name": "Home Page",
+      "type": "root",
       "props": {
         "layout": "scroll",
-        "header": [
-          "Home",
-          "Story",
-          "Menu",
-          "Space",
-          "Community",
-          "News",
-          "Order",
-          "Sign In"
+        "header": {
+          "logo": "IMAJI Coffee.",
+          "navLinks": [
+            "Home",
+            "Story",
+            "Menu",
+            "Space",
+            "Community",
+            "News"
+          ],
+          "buttons": [
+            "Order",
+            "Sign In"
+          ]
+        },
+        "sections": [
+          {
+            "title": "Choose your Coffee & Space",
+            "type": "hero",
+            "description": "We started as a small coffee shop in 2013 and now have more than 30,000+ cups of coffee and providing a comfortable place for our customers to work since 2013."
+          },
+          {
+            "title": "We Provide Your Space For Your Work or Mini event",
+            "type": "text_with_images",
+            "description": "At IMAJI Coffee, we provide a comfy space that you can utilize for work or holding a mini-event."
+          },
+          {
+            "title": "Find Your Favorite Menu",
+            "type": "menu_showcase",
+            "items": [
+              "Distretto Bianco",
+              "French Toast with Sugar",
+              "At Home House Blend"
+            ],
+            "link": "Explore Other Menu"
+          },
+          {
+            "title": "8 Comfy Workspace",
+            "type": "carousel",
+            "items": [
+              "White Wall",
+              "Long Window",
+              "Genos Space"
+            ]
+          },
+          {
+            "title": "We Grow Together With Our Customer",
+            "type": "customer_stories",
+            "items": [
+              "Latte Art Workshop",
+              "Mix The Taste of Indonesian Coffee",
+              "Exhibition Coffee Hardware"
+            ]
+          },
+          {
+            "title": "Latest News",
+            "type": "blog_preview",
+            "description": "Get the latest updates and deeper coffee experience from IMAJI Coffee",
+            "link": "See All News",
+            "featuredArticle": {
+              "title": "Collaboration to Develop Coffee and Beverage Industry Expertise in Indonesia",
+              "date": "August 19, 2022"
+            }
+          }
         ],
-        "heroSection": "Realizing The Mission of Global Expansion...",
-        "newsSection": "Other News",
-        "newsArticles": [
-          "Collaboration to Develop Coffee and Beverage Industry Expertise in Singapore",
-          "Collaboration to Develop Coffee and Beverage Industry Expertise in Indonesia"
-        ],
-        "locationFooter": true
+        "footer": {
+          "location": "Jl. Bangkringan No 19, RT.11/RW.2, Kota Surabaya, 60124",
+          "customerService": "+6282-2876-6862",
+          "hours": "Open from Sun - Mon 10 AM - 22 PM",
+          "socialLinks": [
+            "instagram",
+            "facebook",
+            "twitter",
+            "youtube",
+            "linkedin",
+            "tiktok",
+            "spotify",
+            "telegram"
+          ],
+          "appLinks": [
+            "App Store",
+            "Google Play"
+          ],
+          "copyright": "\u00a9 2023 IMAJI COFFEE.",
+          "legalLinks": [
+            "Delivery Order",
+            "Terms and Conditions",
+            "Privacy Policy"
+          ]
+        }
       }
     },
     {
       "id": "blog_list",
       "name": "Blog List Page",
-      "type": "list",
+      "type": "blog_list",
       "props": {
-        "layout": "list",
-        "header": [
-          "Home",
-          "Story",
-          "Menu",
-          "Space",
-          "Community",
-          "News",
-          "Order",
-          "Sign In"
-        ],
-        "title": "Our News",
-        "blogArticles": [
-          "Collaboration to Develop Coffee and Beverage Industry Expertise in Indonesia",
-          "Visited Doesoen Sirap Coffee, The Producer of Robusta in Central Java",
-          "Cold Brew Coffee, How to Drink Cold Coffee is More Enjoyable",
-          "Meet Coffee Tonic, the Sensation of Drinking Coffee-Flavored Soda",
-          "Workshop Coffee Sharing Session",
-          "Workshop Coffee Brewing"
+        "layout": "scroll",
+        "header": {
+          "logo": "IMAJI Coffee.",
+          "navLinks": [
+            "Home",
+            "Story",
+            "Menu",
+            "Space",
+            "Community",
+            "News"
+          ],
+          "buttons": [
+            "Order",
+            "Sign In"
+          ]
+        },
+        "pageTitle": "Our News",
+        "pageDescription": "Get the latest updates and deeper coffee experience from IMAJI Coffee",
+        "articles": [
+          {
+            "title": "Collaboration to Develop Coffee and Beverage Industry Expertise in Indonesia",
+            "date": "August 19, 2022",
+            "image": "barista_pouring_coffee"
+          },
+          {
+            "title": "Visited Doesoen Sirap Coffee, The Producer of Robusta in Central Java",
+            "date": "August 19, 2022",
+            "image": "coffee_beans"
+          },
+          {
+            "title": "Cold Brew Coffee, How to Drink Cold Coffee is More Enjoyable",
+            "date": "August 19, 2022",
+            "image": "cold_brew"
+          },
+          {
+            "title": "Meet Coffee Tonic, the Sensation of Drinking Coffee-Flavored Soda",
+            "date": "August 19, 2022",
+            "image": "coffee_tonic"
+          },
+          {
+            "title": "Workshop Coffee Sharing Session",
+            "date": "August 19, 2022",
+            "image": "coffee_workshop"
+          },
+          {
+            "title": "Workshop Coffee Brewing",
+            "date": "August 19, 2022",
+            "image": "coffee_brewing"
+          }
         ],
         "loadMoreButton": true,
-        "locationFooter": true
+        "footer": {
+          "location": "Jl. Bangkringan No 19, RT.11/RW.2, Kota Surabaya, 60124",
+          "customerService": "+6282-2876-6862",
+          "hours": "Open from Sun - Mon 10 AM - 22 PM",
+          "socialLinks": [
+            "instagram",
+            "facebook",
+            "twitter",
+            "youtube",
+            "linkedin",
+            "tiktok",
+            "spotify",
+            "telegram"
+          ],
+          "appLinks": [
+            "App Store",
+            "Google Play"
+          ],
+          "copyright": "\u00a9 2023 IMAJI COFFEE.",
+          "legalLinks": [
+            "Delivery Order",
+            "Terms and Conditions",
+            "Privacy Policy"
+          ]
+        }
       }
     },
     {
       "id": "blog_detail",
       "name": "Blog Detail Page",
-      "type": "detail",
+      "type": "blog_detail",
       "props": {
         "layout": "scroll",
-        "header": [
-          "Home",
-          "Story",
-          "Menu",
-          "Space",
-          "Community",
-          "News",
-          "Order",
-          "Sign In"
-        ],
-        "articleContent": "Full blog article content",
-        "locationFooter": true
+        "header": {
+          "logo": "IMAJI Coffee.",
+          "navLinks": [
+            "Home",
+            "Story",
+            "Menu",
+            "Space",
+            "Community",
+            "News"
+          ],
+          "buttons": [
+            "Order",
+            "Sign In"
+          ]
+        },
+        "article": {
+          "title": "Realizing The Mission of Global Expansion, Open Its First Cafe in Singapore",
+          "date": "August 19, 2022",
+          "mainImage": "cafe_interior",
+          "contentPreview": "We are a small cafe, with a big dream of becoming a global cafe. We started our operations in Singapore...",
+          "sections": [
+            "intro",
+            "location",
+            "expansion_plan",
+            "popup_shop",
+            "customer_experience",
+            "food_and_beverage"
+          ]
+        },
+        "otherNewsSection": {
+          "title": "Other News",
+          "articles": [
+            {
+              "title": "Collaboration to Develop Coffee and Beverage Industry Expertise in Indonesia",
+              "date": "August 19, 2022",
+              "image": "barista_pouring_coffee_close"
+            },
+            {
+              "title": "Collaboration to Develop Coffee and Beverage Industry Expertise in Indonesia",
+              "date": "August 19, 2022",
+              "image": "barista_with_customers"
+            }
+          ]
+        },
+        "footer": {
+          "location": "Jl. Bangkringan No 19, RT.11/RW.2, Kota Surabaya, 60124",
+          "customerService": "+6282-2876-6862",
+          "hours": "Open from Sun - Mon 10 AM - 22 PM",
+          "socialLinks": [
+            "instagram",
+            "facebook",
+            "twitter",
+            "youtube",
+            "linkedin",
+            "tiktok",
+            "spotify",
+            "telegram"
+          ],
+          "appLinks": [
+            "App Store",
+            "Google Play"
+          ],
+          "copyright": "\u00a9 2023 IMAJI COFFEE.",
+          "legalLinks": [
+            "Delivery Order",
+            "Terms and Conditions",
+            "Privacy Policy"
+          ]
+        }
       }
     },
     {
       "id": "event_list",
-      "name": "Event List Page",
-      "type": "list",
+      "name": "Events List Page",
+      "type": "event_list",
       "props": {
-        "layout": "list",
-        "header": [
-          "Home",
-          "Story",
-          "Menu",
-          "Space",
-          "Community",
-          "News",
-          "Order",
-          "Sign In"
-        ],
-        "title": "Our Upcoming Events",
+        "layout": "scroll",
+        "header": {
+          "logo": "IMAJI Coffee.",
+          "navLinks": [
+            "Home",
+            "Story",
+            "Menu",
+            "Space",
+            "Community",
+            "News"
+          ],
+          "buttons": [
+            "Order",
+            "Sign In"
+          ]
+        },
+        "pageTitle": "Our Upcoming Events",
+        "pageDescription": "We believe that we are big not because of us but because of them, they are the ones who motivate us continuously to innovate to create a quality coffee taste and comfortable space that is getting better every day.",
         "upcomingEvents": [
-          "Latte Art Workshop",
-          "Exhibition Coffee Hardware",
-          "Factory Visit"
+          {
+            "title": "Latte Art Workshop",
+            "date": "24 Mar 2023",
+            "image": "latte_art_workshop"
+          },
+          {
+            "title": "Exhibition Coffee Hardware",
+            "date": "20 Mar 2023",
+            "image": "coffee_hardware_exhibition"
+          },
+          {
+            "title": "Factory Visit",
+            "date": "20 Mar 2023",
+            "image": "coffee_factory_visit"
+          }
         ],
-        "eventsClosedTitle": "Events Closed",
+        "closedEventsTitle": "Events Closed",
         "closedEvents": [
-          "Bezzera Latte Art Competition",
-          "Sensory and Cupping Class",
-          "Public Cupping",
-          "Competitions and Showcases",
-          "Art and Coffee Festival"
+          {
+            "title": "Bezzera Latte Art Competition",
+            "date": "20 Feb 2023",
+            "image": "latte_art_competition"
+          },
+          {
+            "title": "Sensory and Cupping Class",
+            "date": "20 Mar 2023",
+            "image": "sensory_cupping_class"
+          },
+          {
+            "title": "Public Cupping",
+            "date": "20 Feb 2023",
+            "image": "public_cupping"
+          },
+          {
+            "title": "Competitions and Showcases",
+            "date": "20 Mar 2023",
+            "image": "competitions_showcases"
+          },
+          {
+            "title": "Art and Coffee Festival",
+            "date": "20 Mar 2023",
+            "image": "art_coffee_festival"
+          }
         ],
-        "loadMoreButton": true,
-        "locationFooter": true
+        "loadMoreButtonClosedEvents": true,
+        "footer": {
+          "location": "Jl. Bangkringan No 19, RT.11/RW.2, Kota Surabaya, 60124",
+          "customerService": "+6282-2876-6862",
+          "hours": "Open from Sun - Mon 10 AM - 22 PM",
+          "socialLinks": [
+            "instagram",
+            "facebook",
+            "twitter",
+            "youtube",
+            "linkedin",
+            "tiktok",
+            "spotify",
+            "telegram"
+          ],
+          "appLinks": [
+            "App Store",
+            "Google Play"
+          ],
+          "copyright": "\u00a9 2023 IMAJI COFFEE.",
+          "legalLinks": [
+            "Delivery Order",
+            "Terms and Conditions",
+            "Privacy Policy"
+          ]
+        }
       }
     }
   ],
   "E": [
     {
-      "id": "landing_home->blog_detail",
-      "from": "landing_home",
-      "to": "blog_detail",
-      "conditions": "userTapsNewsArticleOnHomePage",
-      "actions": "loadBlogDetail"
-    },
-    {
-      "id": "blog_list->blog_detail",
-      "from": "blog_list",
-      "to": "blog_detail",
-      "conditions": "userTapsNewsArticleOnBlogListPage",
-      "actions": "loadBlogDetail"
-    },
-    {
-      "id": "landing_home->blog_list",
-      "from": "landing_home",
+      "id": "root->blog_list_header",
+      "from": "root",
       "to": "blog_list",
-      "conditions": "userTapsNewsLink",
-      "actions": "loadBlogList"
+      "conditions": "userTapsNewsHeaderLink",
+      "actions": "loadBlogListPage"
     },
     {
-      "id": "blog_detail->blog_list",
-      "from": "blog_detail",
-      "to": "blog_list",
-      "conditions": "userTapsBackButton",
-      "actions": "loadBlogList"
-    },
-    {
-      "id": "landing_home->event_list",
-      "from": "landing_home",
+      "id": "root->event_list_header",
+      "from": "root",
       "to": "event_list",
-      "conditions": "userTapsMenuAndSelectsEvent",
-      "actions": "loadEventList"
+      "conditions": "userTapsCommunityHeaderLink",
+      "actions": "loadEventListPage"
     },
     {
-      "id": "blog_list->landing_home",
+      "id": "root->blog_list_from_preview_button",
+      "from": "root",
+      "to": "blog_list",
+      "conditions": "userTapsSeeAllNewsButton",
+      "actions": "loadBlogListPage"
+    },
+    {
+      "id": "root->blog_detail_from_preview",
+      "from": "root",
+      "to": "blog_detail",
+      "conditions": "userTapsLatestNewsArticlePreview",
+      "actions": "loadBlogDetailPageWithArticleData"
+    },
+    {
+      "id": "blog_list->root_header",
       "from": "blog_list",
-      "to": "landing_home",
-      "conditions": "userTapsHomeButton",
+      "to": "root",
+      "conditions": "userTapsHomeHeaderLink",
       "actions": "loadHomePage"
     },
     {
-      "id": "blog_detail->landing_home",
+      "id": "blog_list->blog_list_load_more",
+      "from": "blog_list",
+      "to": "blog_list",
+      "conditions": "userTapsLoadMoreButton",
+      "actions": "loadMoreArticles"
+    },
+    {
+      "id": "blog_list->blog_detail_from_card",
+      "from": "blog_list",
+      "to": "blog_detail",
+      "conditions": "userTapsArticleCard",
+      "actions": "loadBlogDetailPageWithArticleData"
+    },
+    {
+      "id": "blog_list->event_list_header",
+      "from": "blog_list",
+      "to": "event_list",
+      "conditions": "userTapsCommunityHeaderLink",
+      "actions": "loadEventListPage"
+    },
+    {
+      "id": "blog_detail->root_header",
       "from": "blog_detail",
-      "to": "landing_home",
-      "conditions": "userTapsHomeButton",
+      "to": "root",
+      "conditions": "userTapsHomeHeaderLink",
       "actions": "loadHomePage"
     },
     {
-      "id": "event_list->landing_home",
+      "id": "blog_detail->blog_list_header",
+      "from": "blog_detail",
+      "to": "blog_list",
+      "conditions": "userTapsNewsHeaderLink",
+      "actions": "loadBlogListPage"
+    },
+    {
+      "id": "blog_detail->blog_detail_other_news",
+      "from": "blog_detail",
+      "to": "blog_detail",
+      "conditions": "userTapsOtherNewsArticle",
+      "actions": "loadBlogDetailPageWithNewArticleData"
+    },
+    {
+      "id": "blog_detail->event_list_header",
+      "from": "blog_detail",
+      "to": "event_list",
+      "conditions": "userTapsCommunityHeaderLink",
+      "actions": "loadEventListPage"
+    },
+    {
+      "id": "event_list->root_header",
       "from": "event_list",
-      "to": "landing_home",
-      "conditions": "userTapsHomeButton",
+      "to": "root",
+      "conditions": "userTapsHomeHeaderLink",
       "actions": "loadHomePage"
+    },
+    {
+      "id": "event_list->blog_list_header",
+      "from": "event_list",
+      "to": "blog_list",
+      "conditions": "userTapsNewsHeaderLink",
+      "actions": "loadBlogListPage"
+    },
+    {
+      "id": "event_list->event_list_load_more",
+      "from": "event_list",
+      "to": "event_list",
+      "conditions": "userTapsLoadMoreButton",
+      "actions": "loadMoreEvents"
     }
   ]
 }

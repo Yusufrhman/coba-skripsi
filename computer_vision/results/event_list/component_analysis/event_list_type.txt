@@ -1,0 +1,143 @@
+Exhibition Coffee Hardware Card:
+This image represents an event card displaying an image of coffee hardware, an event title "EXHIBITION COFFEE HARDWARE," and a date "20 Mar 2023." It functions as a clickable element, likely leading to a detailed page for this event. In Svelte, this would typically be a reusable component, possibly wrapped in an `a` tag to act as a link.
+@@@EventCard@@@
+
+Public Cupping Card:
+This image displays an event card featuring an image of a person performing coffee cupping, the title "PUBLIC CUPPING," and the date "20 Feb 2023." This component serves as a clickable link to view more information about this particular event. It's a prime candidate for a reusable Svelte component.
+@@@EventCard@@@
+
+Copyright Text:
+This is a static text element displaying the copyright notice "© 2023 IMAJI COFFEE, All rights reserved." It provides legal information and is typically found in the footer of a website.
+@@@p@@@
+
+Events Closed Heading:
+This is a prominent heading, "Events Closed," that serves as a section title to categorize past events. It provides clear separation for different sections of event listings on the page.
+@@@h2@@@
+
+Space Navigation Link:
+This text, "Space," is a navigation link within the main header of the website. Clicking it would typically direct the user to a page or section related to the company's physical locations or offerings.
+@@@a@@@
+
+Bezzera Latte Art Competition Card:
+This image shows an event card featuring an image of latte art being poured, the title "BEZZERA LATTE ART COMPETITION," and the date "20 Feb 2023." It is a clickable component, likely leading to more details about this specific competition. This is another instance of a reusable event card component.
+@@@EventCard@@@
+
+Terms and Conditions Link:
+This text, "Terms and Conditions," is a hyperlink located in the footer of the website. It provides users with access to the legal terms and conditions governing the use of the website and services.
+@@@a@@@
+
+Delivery Order Button:
+This component is a button labeled "Delivery Order." Its purpose is to initiate an action, likely taking the user to a delivery service platform or an ordering interface to purchase products.
+@@@button@@@
+
+Sensory and Cupping Class Card:
+This image presents an event card with an image of people participating in a class, titled "SENSORY AND CUPPING CLASS," and dated "20 Mar 2023." It functions as a clickable element to access further details about this class. This represents another instance of the reusable event card Svelte component.
+@@@EventCard@@@
+
+Competitions and Showcases Title and Date:
+This image captures the title "COMPETITIONS AND SHOWCASES" and the date "20 Mar 2023" from an event card. The title semantically represents a heading for the event, while the date provides supplementary information.
+@@@h3@@@
+
+Menu Navigation Link:
+This text, "Menu," is a navigation link in the website's header. Clicking it would likely direct the user to a page displaying the cafe's menu items.
+@@@a@@@
+
+Home Navigation Link:
+This text, "Home," is a navigation link, typically leading back to the website's main landing page. It's a fundamental part of the site's navigation.
+@@@a@@@
+
+Bezzera Latte Art Competition Card:
+This image represents an event card displaying an image of latte art being poured, the event title "BEZZERA LATTE ART COMPETITION," and the date "20 Feb 2023." It functions as a clickable element, likely leading to a detailed page for this event. In Svelte, this would typically be a reusable component, possibly wrapped in an `a` tag to act as a link.
+@@@EventCard@@@
+
+Story Navigation Link:
+This text, "Story," is a navigation link within the main header of the website. It would typically lead to an "About Us" or "Our Story" page, providing information about the company's background.
+@@@a@@@
+
+Factory Visit Card:
+This image displays an event card featuring an image of coffee beans being roasted, the title "FACTORY VISIT," and the date "20 Apr 2023." This component serves as a clickable link to view more information about this particular event. It's a prime candidate for a reusable Svelte component.
+@@@EventCard@@@
+
+News Navigation Link:
+This text, "News," is a navigation link in the website's header. Clicking it would typically direct the user to a page or section containing recent news, updates, or blog posts from the company.
+@@@a@@@
+
+Latte Art Workshop Card:
+This image shows an event card with an image of someone pouring latte art, the title "LATTE ART WORKSHOP," and the date "24 Jan 2023." It is a clickable component, likely leading to more details about this specific workshop. This is another instance of a reusable event card component.
+@@@EventCard@@@
+
+Location and Contact Information Block:
+This block of text provides essential business information: physical address ("Jl. Bangkrington No 19, RT.11/RW.2, Kota Surabaya, 60124"), customer service contact ("Customer Service +6282 - 2876 - 6862"), and business hours ("We Are Open from Sun - Mon 10 AM - 22 PM"). Each line is likely a paragraph or division of text, with the phone number potentially being a clickable link (e.g., `tel:`). The "Customer Service" and "We Are Open from" parts are likely styled for emphasis.
+@@@div@@@
+
+Community Navigation Link:
+This text, "Community," is a navigation link in the website's header. It would likely lead to a page or section dedicated to community involvement, events, or initiatives by the company.
+@@@a@@@
+
+Exhibition Coffee Hardware Card:
+This image represents an event card displaying an image of coffee hardware, an event title "EXHIBITION COFFEE HARDWARE," and a date "20 Mar 2023." It functions as a clickable element, likely leading to a detailed page for this event. In Svelte, this would typically be a reusable component, possibly wrapped in an `a` tag to act as a link.
+@@@EventCard@@@
+
+Art and Coffee Festival Card:
+This image represents an event card displaying an image related to coffee and art, the event title "ART AND COFFEE FESTIVAL," and the date "20 Mar 2023." It functions as a clickable element, likely leading to a detailed page for this event. In Svelte, this would typically be a reusable component, possibly wrapped in an `a` tag to act as a link.
+@@@EventCard@@@
+
+Privacy Policy Link:
+This text, "Privacy Policy," is a hyperlink located in the footer of the website. It provides users with access to the company's privacy policy, outlining how user data is collected and used.
+@@@a@@@
+
+Latte Art Workshop Card (20 Feb 2023):
+This image displays an event card featuring an image of latte art being poured, the title "LATTE ART WORKSHOP," and the date "20 Feb 2023." This component serves as a clickable link to view more information about this particular event. It's a prime candidate for a reusable Svelte component.
+@@@EventCard@@@
+
+Instagram Icon:
+This is a social media icon for Instagram. It functions as a clickable link, directing users to the company's official Instagram profile. It would typically be an `<a>` tag wrapping an `<img>` tag or an SVG/icon font.
+@@@a@@@
+
+Sensory and Cupping Class Card:
+This image presents a full event card with an image of people participating in a class, titled "SENSORY AND CUPPING CLASS," and dated "20 Mar 2023." It functions as a clickable element to access further details about this class. This represents another instance of the reusable event card Svelte component.
+@@@EventCard@@@
+
+Load More Button:
+This is a button labeled "Load More." Its purpose is to fetch and display additional content, likely more "Events Closed" listings, when clicked, without navigating to a new page.
+@@@button@@@
+
+Latte Art Workshop Card (20 Feb 2023) - Blue Filter:
+This image shows an event card featuring an image of latte art being poured, the title "LATTE ART WORKSHOP," and the date "20 Feb 2023." Despite the blue color overlay, it is functionally identical to other event cards, serving as a clickable component that leads to details about this specific workshop. This is another instance of a reusable event card component.
+@@@EventCard@@@
+
+Order Button:
+This component is a button labeled "Order." It appears in the main navigation, indicating a primary call to action, likely leading users to a page or service to place an order.
+@@@button@@@
+
+Factory Visit Title and Date:
+This image captures the title "FACTORY VISIT" and the date "20 Apr 2023" from an event card. The title serves as a heading for the event, and the date provides specific timing information. These are typically presented as a heading and a paragraph/span within an event card.
+@@@h3@@@
+
+Introductory Paragraph:
+This is a block of descriptive text: "We believe that we are big not because of us but because of them. they are the ones who motivate us to continue to innovate to provide a quality coffee taste and comfortable space that is getting better every day." It introduces the company's philosophy or mission statement.
+@@@p@@@
+
+TikTok Icon:
+This is a social media icon for TikTok. It functions as a clickable link, directing users to the company's official TikTok profile. It would typically be an `<a>` tag wrapping an `<img>` tag or an SVG/icon font.
+@@@a@@@
+
+Art and Coffee Festival Card (with blue filter):
+This image represents an event card displaying an image related to coffee and art, the event title "ART AND COFFEE FESTIVAL," and the date "20 Mar 2023." The blue overlay might indicate a hover state or a specific category. It functions as a clickable element, likely leading to a detailed page for this event. In Svelte, this would typically be a reusable component, possibly wrapped in an `a` tag to act as a link.
+@@@EventCard@@@
+
+Google Play Button:
+This component is an image acting as a button or link. It directs users to download the associated mobile application from the Google Play Store. It will likely be an `<a>` tag wrapping an `<img>` element.
+@@@a@@@
+
+Sign In Button:
+This component is a button labeled "Sign In." Its purpose is to allow users to authenticate and access their account or a restricted area of the website.
+@@@button@@@
+
+IMJI Coffee. Logo/Brand Name:
+This is the brand name "IMJI Coffee." displayed prominently, likely acting as the website's logo. It typically functions as a clickable link that navigates the user back to the homepage.
+@@@a@@@
+
+App Store Button:
+This component is an image acting as a button or link. It directs users to download the associated mobile application from the Apple App Store. It will likely be an `<a>` tag wrapping an `<img>` element.
+@@@a@@@

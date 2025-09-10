@@ -1,0 +1,24 @@
+Based on the provided Page Transition Graph (PTG), please create a routing configuration file named App.svelte for a svelte application using @mateothegreat/svelte5-router.
+Here's the PTG:
+{PTG}
+Each page node ({page_list}) should correspond to a Svelte component file located in the ./pages folder, with the file name matching the node id with CamelCase and ending with Page.svelte. For example, if the node id is home, the component should be ./pages/HomePage.svelte.
+In the App.svelte file, you should import each page like this:
+import Home from './pages/HomePage.svelte';
+Then, configure the routes object where the key is the node id (as a string) and the value is the imported Svelte component. Pass the routes object to the <Router> component from @mateothegreat/svelte5-router.
+example: 
+import {{ Router }} from "@mateothegreat/svelte5-router";
+const routes: RouteConfig[] = [
+  {{
+    // Notice that we don't need to specify the path.
+    // The router will use this route as the default route when "/" is visited. use the Root node id
+    component: Home
+  }},
+  {{
+    path: "/about_us",
+    component: AboutUs
+  }}
+];
+Passing the routes to the <Router /> component:
+
+<Router {{routes}} />
+Your response should only contain code, without any additional prompt information, and do not use code block markup.

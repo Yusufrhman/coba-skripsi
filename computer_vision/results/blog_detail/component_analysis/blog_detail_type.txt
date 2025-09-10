@@ -1,0 +1,147 @@
+Privacy Policy:
+This is a clickable text link found in the footer, which directs users to the website's privacy policy page.
+@@@a@@@
+
+Story:
+This is a navigation link within the header, allowing users to navigate to the "Story" section or dedicated page of the website.
+@@@a@@@
+
+Realizing The Mission of Global Expansion, Open its First Cafe in Singapore:
+This is the main heading or title of the blog post or article, prominently displayed at the top of the content area.
+@@@h1@@@
+
+Collaboration to Develop Coffee and Beverage Industry Expertise in Indonesia:
+This is a title for a related article or blog post, likely serving as a clickable link to that content. It functions as a subheading for a section of related items.
+@@@h3@@@
+
+4 Min • August 19, 2022:
+This text displays metadata for an article, indicating its estimated reading time and publication date. It's often styled as a smaller, less prominent text element.
+@@@p@@@
+
+Collaboration to Develop Coffee and Beverage Industry:
+This is a title for a related article or blog post, likely serving as a clickable link to that content. It's part of a larger `<h3>` element, similar to Component 4.
+@@@h3@@@
+
+We are a small cafe, with a big dream of becoming a global cafe. We started our operations in Singapore, and we are now expanding to Singapore. We will be opening our first cafe in Beijing soon, and we also plan to open more cafes across the globe. Realizing The Mission of Global Expansion, Open its First Cafe in Singapore:
+This is a block of explanatory text, forming a paragraph within the main content of the article. It provides narrative details about the company's expansion.
+@@@p@@@
+
+We are currently running our pop-up shop in Singapore, and hope to launch our own café soon. A real estate company is established in Asia that develops communities and provides financial services globally. We believe in love and happiness, a sense of belonging, and the importance of a shared experience. Here you can be yourself, share stories and make friends.:
+This is a block of explanatory text, forming a paragraph within the main content of the article. It describes the company's current activities and philosophy.
+@@@p@@@
+
+TikTok icon:
+This is a clickable icon, typically linking to the company's official TikTok social media profile. It would likely be an `<a>` element wrapping an icon font or SVG.
+@@@a@@@
+
+Jl. Bangkaringan No 19, RT.11/RW.2, Kota Surabaya, 60124 Customer Service +6282-2876-6862:
+This text block displays contact information, including an address and a customer service phone number. The phone number might be a clickable link. It could be a single paragraph with line breaks or a `div` containing multiple `p` or `span` elements.
+@@@p@@@
+
+We partner with companies who LOVE the world. The cafe is a place where people can go to enjoy the food and coffee, but also a place where they can meet new friends. The cafe is located in Pasir Ris. The cafe has a wide variety of menu items to choose from. In addition to the usual coffee and tea, there are also some specialty drinks such as smoothies, milkshakes and frozen yogurt.:
+This is a block of explanatory text, forming a paragraph within the main content of the article. It provides details about the cafe's offerings and atmosphere.
+@@@p@@@
+
+Delivery Order:
+This is a button that likely allows users to initiate an online delivery order, redirecting them to a delivery service or an order placement page. It is styled to stand out as a call to action.
+@@@button@@@
+
+Cafe interior image:
+This is a prominent image displaying the interior of the cafe, serving as a visual element to illustrate the article or showcase the cafe's ambiance.
+@@@img@@@
+
+Space:
+This is a navigation link within the header, allowing users to navigate to the "Space" section or dedicated page of the website, likely showcasing the cafe's physical location and design.
+@@@a@@@
+
+Menu:
+This is a navigation link within the header, allowing users to navigate to the "Menu" section or dedicated page of the website, where they can view food and beverage options.
+@@@a@@@
+
+Community:
+This is a navigation link within the header, allowing users to navigate to the "Community" section or dedicated page of the website, likely related to events, partnerships, or local engagement.
+@@@a@@@
+
+There are many types of food available at the cafe such as sandwiches, soups, salads and desserts. The menu also includes vegetarian options for those who have special dietary needs. People can order their food online via the website or by calling the number given on the website. They will be able to choose their preferred time for pickup so that they don’t miss out on any orders!:
+This is a block of explanatory text, forming a paragraph within the main content of the article. It provides details about the cafe's food offerings and ordering options.
+@@@p@@@
+
+Other News:
+This is a section heading that introduces a collection of related news articles or blog posts.
+@@@h2@@@
+
+We Are Open from Sun - Mon 10 AM - 22 PM:
+This is a text element displaying the operating hours of the cafe. It is likely found in the footer or a contact section.
+@@@p@@@
+
+August 19, 2022:
+This text displays the publication date of the article, providing temporal context to the content.
+@@@p@@@
+
+We are currently running our first pop-up shop at Dempsey Hill which will run until mid-November. Global Expansion Cafe will be open for lunch and dinner on weekdays as well as weekends. Global Expansion Cafe will introduce new tastes and experiences to Singaporeans by introducing international food culture.:
+This is a block of explanatory text, forming a paragraph within the main content of the article. It provides specific details about current pop-up operations and future plans.
+@@@p@@@
+
+Home:
+This is a navigation link within the header, allowing users to navigate to the homepage of the website.
+@@@a@@@
+
+News:
+This is a navigation link within the header, allowing users to navigate to the "News" section or dedicated page of the website.
+@@@a@@@
+
+Cafe interior image:
+This is an image displaying another view of the cafe interior, serving as a visual element to illustrate the article or showcase the cafe's ambiance.
+@@@img@@@
+
+Collaboration to Develop Coffee and Beverage Industry Expertise in Indonesia:
+This component combines a clickable title and associated metadata (reading time, date) for a news article. The title itself is an `<h3>` element, and the metadata is a `p` element. The entire block likely functions as a clickable link.
+@@@div@@@
+
+Collaboration to Develop Coffee and Beverage Industry:
+This is a title for a related article or blog post, likely serving as a clickable link to that content. It's part of a larger `<h3>` element, similar to previous titles for related items.
+@@@h3@@@
+
+Google Play badge:
+This is an image, specifically a "Get it on Google Play" badge, which acts as a clickable link to the application's page on the Google Play Store.
+@@@a@@@
+
+Jl. Bangkaringan No 19, RT.11/RW.2, Kota Surabaya, 60124:
+This is a text element displaying part of the company's physical address. It's likely a `p` element within a footer or contact section.
+@@@p@@@
+
+Twitter icon:
+This is a clickable icon, typically linking to the company's official Twitter social media profile. It would likely be an `<a>` element wrapping an icon font or SVG.
+@@@a@@@
+
+© 2023 IMAJI COFFEE, All rights reserved:
+This is a text element displaying the copyright information for the website.
+@@@p@@@
+
+Spotify icon:
+This is a clickable icon, typically linking to the company's official Spotify profile or playlist. It would likely be an `<a>` element wrapping an icon font or SVG.
+@@@a@@@
+
+Cafe interior image with menu on the left:
+This is an image displaying the interior of a cafe, specifically showing a counter with menu items listed on a board. It serves as a visual element to showcase the cafe's ambiance and offerings.
+@@@img@@@
+
+Terms and Conditions:
+This is a clickable text link, typically found in the website's footer, that directs users to the "Terms and Conditions" legal page.
+@@@a@@@
+
+IMAJI Coffee.:
+This is the brand's logo text, prominently displayed in the header. It is very likely a clickable link that navigates users back to the homepage.
+@@@a@@@
+
+Sign In:
+This is a button that allows users to sign in or log into their account on the website.
+@@@button@@@
+
+Order:
+This is a primary call-to-action button, likely styled to stand out, which directs users to a page where they can place an order.
+@@@button@@@
+
+Download on the App Store badge:
+This is an image of the "Download on the App Store" badge, which acts as a clickable link to the application's page on the Apple App Store.
+@@@a@@@

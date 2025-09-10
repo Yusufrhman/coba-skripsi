@@ -1,0 +1,163 @@
+Barista pouring coffee:
+This is an image displaying a barista preparing coffee, likely serving as a visual element for a news article or blog post on the website.
+@@@img@@@
+
+Paper airplane icon:
+This is an icon typically representing a "send" or "share" action. In the context of the website's footer, it likely functions as a link to a social media platform (e.g., Telegram) or a "share this page" feature.
+@@@a@@@
+
+Collaboration to Develop Coffee and Beverage Industry Expertise in Indonesia:
+This is the main title for a featured news article or blog post. It serves as a clickable link to read the full article.
+@@@h2@@@
+
+Terms and Conditions | Privacy Policy:
+These are navigational links found in the footer, leading to the "Terms and Conditions" page and the "Privacy Policy" page of the website, respectively.
+@@@a@@@
+
+Barista pouring coffee into pour-over:
+This is an image showcasing a coffee brewing method, likely serving as a visual element for a news article or blog post.
+@@@img@@@
+
+Hand pouring liquid into cup:
+This is an image depicting a beverage being prepared, likely serving as a visual element for a news article or blog post.
+@@@img@@@
+
+Hand pouring liquid into cup (duplicate):
+This is an image depicting a beverage being prepared, likely serving as a visual element for a news article or blog post.
+@@@img@@@
+
+© 2023 IMAJI COFFEE, All rights reserved:
+This is the copyright notice for the website, typically found in the footer, displaying the year and the entity holding the rights.
+@@@p@@@
+
+Home:
+This is a navigation link in the website's header, which when clicked, directs the user back to the homepage.
+@@@a@@@
+
+Workshop Coffee Brewing:
+This is a title for a news article or blog post, likely serving as a clickable link to view the full details of the article.
+@@@h3@@@
+
+Delivery Order:
+This is a call-to-action button that likely directs users to a page or service where they can place an order for delivery.
+@@@button@@@
+
+News:
+This is a navigation link in the website's header, which when clicked, directs the user to the "News" section of the website.
+@@@a@@@
+
+Get the latest updates and deeper coffee experience from IMAJI Coffee:
+This is a descriptive text providing a brief introduction or subheading for the "Our News" section, inviting users to explore content.
+@@@p@@@
+
+Visited Doesoen Sirap Coffee, The Producer of Robusta in Central Java:
+This is the title for a news article or blog post, likely serving as a clickable link to view the full details of the article.
+@@@h3@@@
+
+Image of blue beverage being prepared:
+This is an image showcasing a beverage being prepared, likely serving as a visual element for a news article or blog post.
+@@@img@@@
+
+Workshop Coffee Sharing Session:
+This is the title for a news article or blog post, likely serving as a clickable link to view the full details of the article.
+@@@h3@@@
+
+Space:
+This is a navigation link in the website's header, which when clicked, directs the user to a page related to "Space", possibly about their physical locations or events.
+@@@a@@@
+
+Menu:
+This is a navigation link in the website's header, which when clicked, directs the user to the "Menu" page, showcasing their coffee and beverage offerings.
+@@@a@@@
+
+Jl. Bangkringan No 19, RT.11/RW.2, Kota Surabaya, 60124 Customer Service +6282-2876-6862 We Are Open from Sun - Mon 10 AM - 22 PM:
+This is a block of text containing location details (address), customer service contact information (phone number), and business hours. Each line is likely a separate paragraph or span within a container.
+@@@p@@@
+
+Story:
+This is a navigation link in the website's header, which when clicked, directs the user to the "Story" page, likely about the brand's history or mission.
+@@@a@@@
+
+Meet Coffee Tonic, the Sensation of Drinking Coffee-Flavored Soda:
+This is the title for a news article or blog post, likely serving as a clickable link to view the full details of the article.
+@@@h3@@@
+
+Image of coffee beans being dispensed:
+This is an image showing coffee beans being processed, likely serving as a visual element for a news article or blog post on the website.
+@@@img@@@
+
+Cold Brew Coffee, How to Drink Cold Coffee is More Enjoyable:
+This is the title for a news article or blog post, likely serving as a clickable link to view the full details of the article.
+@@@h3@@@
+
+Image of blue beverage being prepared (duplicate):
+This is an image showcasing a beverage being prepared, likely serving as a visual element for a news article or blog post.
+@@@img@@@
+
+Community:
+This is a navigation link in the website's header, which when clicked, directs the user to the "Community" page, possibly about their community engagement or events.
+@@@a@@@
+
+Download on the App Store button/logo:
+This is an image that functions as a link or button, directing users to download the application from the Apple App Store. It is likely part of an `<a>` tag wrapping an `<img>`.
+@@@a@@@
+
+4 Min • August 19, 2022:
+This is a text element indicating the estimated reading time of an article and its publication date. It provides metadata for the news articles.
+@@@p@@@
+
+4 Min • August 19, 2022 (duplicate):
+This is a text element indicating the estimated reading time of an article and its publication date. It provides metadata for the news articles.
+@@@p@@@
+
+Sign In button:
+This is a button that likely allows users to log in to their accounts or access personalized features on the website.
+@@@button@@@
+
+IMAJI Coffee. logo/brand name:
+This is the brand name and logo for the website, likely a clickable element that navigates the user back to the homepage.
+@@@a@@@
+
+Load More button:
+This is a button designed to fetch and display additional content (e.g., more news articles) when clicked, helping with pagination or infinite scrolling.
+@@@button@@@
+
+Our Location title:
+This is a prominent heading that introduces the section containing information about the business's physical location.
+@@@h2@@@
+
+Image of beverage being poured into a small cup:
+This is an image showcasing a beverage being prepared, likely serving as a visual element for a news article or blog post on the website.
+@@@img@@@
+
+Image of a person pouring from a kettle into a pour-over coffee setup:
+This is an image depicting a coffee brewing process, likely serving as a visual element for a news article or blog post on the website.
+@@@img@@@
+
+Large image of a coffee shop interior with baristas and customers:
+This is a prominent image, likely serving as the main visual for the featured news article at the top of the "Our News" section. It visually represents the content of the article.
+@@@img@@@
+
+TikTok icon:
+This is a social media icon, which when clicked, likely links to the company's official TikTok profile. It typically acts as an anchor tag wrapping an icon.
+@@@a@@@
+
+Google Play button/logo:
+This is an image that functions as a link or button, directing users to download the application from the Google Play Store. It is likely part of an `<a>` tag wrapping an `<img>`.
+@@@a@@@
+
+Order button (blue background):
+This is a prominent button in the header that likely directs users to a page where they can place an order for products or services.
+@@@button@@@
+
+4 Min • August 19, 2022 (duplicate, another instance):
+This is a text element indicating the estimated reading time of an article and its publication date. It provides metadata for the news articles.
+@@@p@@@
+
+Load More button (outlined):
+This is a button designed to fetch and display additional content (e.g., more news articles) when clicked, helping with pagination or infinite scrolling.
+@@@button@@@
+
+Hamburger menu icon:
+This is an icon commonly used to toggle a navigation menu, especially on smaller screens. When clicked, it would typically open or close a hidden menu. It would likely be an interactive element, often a button wrapping an icon.
+@@@button@@@

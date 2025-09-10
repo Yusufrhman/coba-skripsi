@@ -1,0 +1,139 @@
+Large image of a café interior:
+This is a prominent image showcasing one of the coffee shop's spaces, likely intended to attract customers and visually represent the ambiance. It serves as a visual background or a hero image in a section.
+@@@img@@@
+
+Image of "Imaji Coffee Podcast":
+This is an image card that features a podcast icon and text, likely linking to or promoting the "Imaji Coffee Podcast." It visually represents a media content block.
+@@@img@@@
+
+"We Grow Together With Our Customer" heading:
+This is a main heading for a section, emphasizing the company's relationship with its customers. It introduces a new section of content.
+@@@h2@@@
+
+"We provide many attractive and unique workspaces so you will have no trouble finding..." paragraph:
+This is a paragraph of descriptive text, elaborating on the availability of various workspaces offered by the coffee shop.
+@@@p@@@
+
+"Get the latest updates and deeper coffee experience from IMAJI Coffee" paragraph:
+This is a paragraph of introductory text for the "Latest News" section, encouraging users to explore updates and enhance their coffee experience.
+@@@p@@@
+
+"All the best local coffee bean varieties from throughout Indonesia are available with us. Directly from selected farmers, high-quality beans are processed and roasted to perfection by ourselves, then passed on to our skilled baristas who are passionate about preparing a cup of longed-for happiness from home." paragraph:
+This is a detailed paragraph describing the sourcing and quality of coffee beans, highlighting the company's commitment to quality and the skill of its baristas.
+@@@p@@@
+
+"Explore Other Menu" button:
+This is a button that, when clicked, would navigate the user to a page or section displaying the full menu.
+@@@button@@@
+
+Image of coffee, cake, and cactus:
+This is an image showcasing a selection of menu items (drinks and dessert) along with a decorative plant, likely used to visually entice customers and represent the offerings.
+@@@img@@@
+
+"Explore Other Event" button:
+This is a button that, when clicked, would navigate the user to a page or section displaying more events or event details.
+@@@button@@@
+
+Image of "GENGS SPACE" workspace:
+This is an image card displaying a specific workspace called "GENGS SPACE," likely used in a gallery or list of available workspaces. The text overlay acts as a label or title for the image.
+@@@img@@@
+
+Image of a cafe interior with blue accents and hanging plants:
+This is a prominent image showcasing one of the coffee shop's spaces, emphasizing its ambiance and potentially highlighting a specific area like a communal or event space. It serves as a visual background or a hero image in a section.
+@@@img@@@
+
+"We believe that we are big not because of us but because of them. they are the ones who motivate us to continue to innovate to provide a quality coffee taste and comfortable space that is getting better every" paragraph:
+This is a paragraph of descriptive text, explaining the company's philosophy and its commitment to customers and continuous improvement. It serves as part of an "About Us" or mission statement section.
+@@@p@@@
+
+"Terms and Conditions | Privacy Policy" links:
+These are navigational links, typically found in a footer, leading to legal and privacy information pages. Each pipe-separated text is a distinct link.
+@@@a@@@
+
+Image of blue French toast:
+This is an image showcasing a specific food item from the menu, likely "French Toast with Sugar," intended to visually entice customers.
+@@@img@@@
+
+"RISTRETTO BIANCO" text:
+This is the title or name of a menu item, "Ristretto Bianco," displayed in a bold text format.
+@@@h3@@@
+
+"Order" button:
+This is a call-to-action button, likely in the header navigation, that allows users to proceed to an ordering system or page.
+@@@button@@@
+
+Image of blue drink and cookies:
+This is an image showcasing a specific menu item, likely "At Home House Blend" coffee and accompanying cookies, intended to visually entice customers.
+@@@img@@@
+
+"© 2023 IMAJI COFFEE, All rights reserved" copyright text:
+This is a copyright notice, typically found in the footer, indicating the intellectual property rights of the company for the current year.
+@@@p@@@
+
+"We Provide Your Space For Your Work or Mini event With Your Favorite coffee." heading:
+This is a main heading for a section, introducing the coffee shop's offering of versatile spaces for work or small events.
+@@@h2@@@
+
+"IM4JI Coffee has been serving 20,000+ cups of coffee and providing a comfortable place for our customers to work since 2010." paragraph:
+This is a paragraph providing background information about IMAJI Coffee's experience and customer service, likely serving as an introduction or part of an "About Us" section.
+@@@p@@@
+
+8 Comfy Workspace heading:
+This is a prominent heading, likely an `h2` or `h1`, introducing a section that showcases various comfortable workspaces offered by the coffee shop.
+@@@h2@@@
+
+Sign In button:
+This is a button that, when clicked, would likely take the user to a login or account creation page. It's styled as an outlined button.
+@@@button@@@
+
+Image of "LONG WINDOW" workspace:
+This is an image card displaying a specific workspace called "LONG WINDOW," along with a "Workspace" label. It's used to visually present one of the available work areas, potentially as part of a carousel or gallery. The text overlay acts as a title/label for the image.
+@@@img@@@
+
+Image of "EXHIBITION COFFEE HARDWARE":
+This is an image with a descriptive caption "EXHIBITION COFFEE HARDWARE," likely showcasing coffee equipment or promoting an event related to it. It could be part of a news or event card.
+@@@img@@@
+
+"Our story begins in 2010 with a simple idea from our founder..." paragraph:
+This is a paragraph of descriptive text detailing the origin story and philosophy of the coffee shop, likely found in an "About Us" section.
+@@@p@@@
+
+Image of blue coffee table with cups and a plant:
+This is an image showcasing a serene setting with coffee cups on a table, possibly depicting a comfortable space or an example of the shop's ambiance.
+@@@img@@@
+
+Image of "WHITE WALL" workspace:
+This is an image card displaying a specific workspace called "WHITE WALL," along with a "Workspace" label. It's used to visually present one of the available work areas, potentially as part of a carousel or gallery. The text overlay acts as a title/label for the image.
+@@@img@@@
+
+FRENCH TOAST WITH SUGAR text:
+This is the title or name of a menu item, "French Toast with Sugar," displayed in a bold text format.
+@@@h3@@@
+
+Image of "LATTE ART WORKSHOP":
+This is an image card featuring a barista making latte art, with the title "LATTE ART WORKSHOP" and the date "20 Feb 2023." It's likely an event promotion or a news item.
+@@@img@@@
+
+Mix The Taste of Indonesian Coffee podcast player:
+This is a complex interactive media player component for a podcast episode. It includes an image thumbnail, the podcast title ("Mix The Taste of Indonesian Coffee"), episode details ("Feb 2023 . 1 hr 13 min"), playback controls (play button, skip forward/backward), a progress bar, current time/total duration, and a volume control. The "Other Episode" text is a link. Given its interactive nature and combined elements, it would likely be a custom Svelte component (`PodcastPlayer` for example), built from a combination of `div`, `img`, `p`, `button`, `input` (for the slider), and `a` elements.
+@@@div@@@
+
+Latest News heading:
+This is a prominent heading, likely an `h2` or `h1`, introducing a section dedicated to the latest updates, news, or blog posts from the coffee shop.
+@@@h2@@@
+
+Find Your Favorite Menu heading:
+This is a prominent heading, likely an `h2` or `h1`, introducing a section that showcases various menu items offered by the coffee shop.
+@@@h2@@@
+
+Image of a cafe interior with blue furniture:
+This is a prominent image showcasing a beautifully decorated interior space with blue accents, likely intended to highlight the comfortable and stylish ambiance for customers. It serves as a visual background or a hero image in a section.
+@@@img@@@
+
+Image of a barista serving a customer:
+This is a large image depicting a barista serving a customer at the counter. It's used to convey the coffee shop's service experience and atmosphere.
+@@@img@@@
+
+Image of IMAJI Coffee packaging:
+This is an image of a product, specifically a bag of "IMAJI COFFEE" branded coffee beans or grounds. It's likely used to showcase products available for purchase, perhaps within a menu or e-commerce section.
+@@@img@@@
